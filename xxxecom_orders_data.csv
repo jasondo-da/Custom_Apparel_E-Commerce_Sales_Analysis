@@ -1,0 +1,988 @@
+order_id,customer_id,age,city,state,product_category,sub_category,color,price,Quantity,order_date,ship_date
+583.0,145.0,48,Los Angeles,California,outerwear,hoodie,Blue,45.99,1,1/20/2025,1/26/2025
+269.0,197.0,23,Young America,Minnesota,clothing,shorts,Black,23.99,5,4/14/2025,4/18/2025
+962.0,906.0,36,Minneapolis,Minnesota,outerwear,hoodie,White,45.99,3,12/9/2025,12/16/2025
+106.0,754.0,32,Fresno,California,accessories,hat,Black,15.99,1,1/16/2025,1/23/2025
+902.0,31.0,39,Moreno Valley,California,clothing,socks,Black,11.99,2,12/7/2025,12/11/2025
+95.0,147.0,37,Denver,Colorado,accessories,hat,Navy,15.99,1,1/21/2025,1/27/2025
+161.0,705.0,39,Richmond,California,clothing,shorts,Gray,23.99,1,11/1/2025,11/4/2025
+17.0,579.0,36,Boulder,Colorado,outerwear,hoodie,Black,45.99,2,3/13/2025,3/18/2025
+879.0,504.0,25,Grand Rapids,Michigan,clothing,t-shirt,Navy,17.99,1,11/24/2025,12/1/2025
+509.0,17.0,31,Saint Paul,Minnesota,clothing,shirt,Black,25.99,1,2/10/2025,2/12/2025
+572.0,151.0,42,North Hollywood,California,outerwear,hoodie,Black,45.99,1,2/2/2025,2/9/2025
+722.0,96.0,19,San Jose,California,outerwear,hoodie,Black,45.99,1,8/28/2025,8/30/2025
+376.0,853.0,37,Portland,Oregon,outerwear,jacket,Navy,59.99,2,6/19/2025,6/21/2025
+427.0,521.0,35,Los Angeles,California,outerwear,hoodie,Beige,45.99,1,7/24/2025,7/26/2025
+240.0,930.0,37,Petaluma,California,outerwear,jacket,Black,59.99,1,,
+250.0,932.0,65,Sacramento,California,outerwear,hoodie,Gray,45.99,1,3/2/2025,3/7/2025
+259.0,655.0,22,Lansing,Michigan,clothing,t-shirt,Navy,17.99,2,4/19/2025,4/23/2025
+227.0,253.0,39,Vancouver,Washington,clothing,shirt,Navy,25.99,2,12/2/2025,12/9/2025
+383.0,251.0,18,Santa Monica,California,clothing,sweater,Navy,33.99,3,7/11/2025,7/14/2025
+590.0,912.0,18,Ventura,California,clothing,socks,White,11.99,2,9/17/2025,9/20/2025
+856.0,981.0,63,Riverside,California,outerwear,hoodie,Black,45.99,5,8/23/2025,8/27/2025
+820.0,58.0,26,Redwood City,California,accessories,backpack,Navy,39.99,1,3/25/2025,4/1/2025
+709.0,7.0,29,Minneapolis,Minnesota,accessories,hat,Beige,15.99,3,7/25/2025,8/1/2025
+420.0,617.0,22,San Francisco,California,outerwear,jacket,Black,59.99,1,8/24/2025,8/25/2025
+816.0,953.0,28,Boise,Idaho,clothing,shorts,Beige,23.99,1,10/1/2025,10/8/2025
+593.0,693.0,24,Boise,Idaho,clothing,t-shirt,Navy,17.99,2,12/9/2025,12/16/2025
+463.0,491.0,65,Detroit,Michigan,clothing,shirt,Navy,25.99,3,8/3/2025,8/5/2025
+702.0,153.0,49,Denver,Colorado,clothing,sweater,Gray,33.99,2,7/16/2025,7/17/2025
+819.0,643.0,20,Los Angeles,California,outerwear,hoodie,Gray,45.99,1,3/12/2025,3/18/2025
+859.0,334.0,18,Mountain View,California,clothing,socks,White,11.99,1,7/23/2025,7/26/2025
+384.0,677.0,39,Seattle,Washington,clothing,shorts,Beige,23.99,2,1/1/2025,1/7/2025
+929.0,277.0,32,Spokane,Washington,clothing,shirt,Gray,25.99,2,1/22/2025,1/24/2025
+436.0,660.0,21,Portland,Oregon,clothing,t-shirt,Navy,17.99,2,9/13/2025,9/15/2025
+793.0,894.0,59,San Francisco,California,accessories,backpack,Black,39.99,1,7/31/2025,8/5/2025
+7.0,262.0,37,San Diego,California,accessories,backpack,Navy,39.99,2,4/24/2025,4/29/2025
+116.0,908.0,64,Sacramento,California,outerwear,hoodie,Beige,45.99,2,9/30/2025,10/2/2025
+523.0,838.0,31,Eugene,Oregon,accessories,hat,Black,15.99,1,5/25/2025,5/30/2025
+338.0,502.0,23,Inglewood,California,clothing,t-shirt,Black,17.99,3,3/24/2025,3/30/2025
+475.0,,37,Sacramento,California,clothing,socks,Black,11.99,1,3/10/2025,3/16/2025
+457.0,279.0,25,San Francisco,California,clothing,t-shirt,Black,17.99,1,12/23/2025,12/27/2025
+399.0,513.0,39,Madison,Wisconsin,clothing,shorts,Gray,23.99,3,9/8/2025,9/13/2025
+196.0,849.0,29,Tacoma,Washington,clothing,sweater,Navy,33.99,2,11/24/2025,12/1/2025
+700.0,437.0,61,Grand Rapids,Michigan,clothing,t-shirt,Black,17.99,1,11/5/2025,11/8/2025
+743.0,39.0,29,North Hollywood,California,clothing,shirt,Beige,25.99,3,1/31/2025,2/1/2025
+613.0,588.0,28,Los Angeles,California,clothing,t-shirt,Black,17.99,3,11/27/2025,12/2/2025
+121.0,617.0,22,San Francisco,California,clothing,shirt,Blue,25.99,2,8/2/2025,8/3/2025
+676.0,376.0,21,Los Angeles,California,clothing,pants,Blue,37.99,1,5/10/2025,5/16/2025
+606.0,733.0,65,Monticello,Minnesota,accessories,hat,Blue,15.99,2,9/3/2025,9/10/2025
+323.0,700.0,49,Riverside,California,accessories,backpack,Navy,39.99,3,8/21/2025,8/23/2025
+251.0,746.0,48,Saint Paul,Minnesota,clothing,sweater,Black,33.99,3,9/22/2025,9/29/2025
+662.0,18.0,26,Bakersfield,California,clothing,t-shirt,Navy,17.99,1,7/12/2025,7/17/2025
+167.0,374.0,45,Colorado Springs,Colorado,clothing,sweater,Navy,33.99,4,1/20/2025,1/23/2025
+900.0,263.0,18,Colorado Springs,Colorado,clothing,t-shirt,White,17.99,1,1/22/2025,1/29/2025
+986.0,183.0,52,Milwaukee,Wisconsin,clothing,shirt,Blue,25.99,1,12/23/2025,12/24/2025
+473.0,623.0,36,San Francisco,California,clothing,socks,Black,11.99,3,4/28/2025,5/5/2025
+449.0,939.0,61,Sacramento,California,outerwear,jacket,Navy,59.99,1,8/25/2025,8/26/2025
+105.0,103.0,50,Detroit,Michigan,outerwear,hoodie,Black,45.99,2,12/24/2025,12/29/2025
+588.0,211.0,41,Stockton,California,clothing,shorts,Blue,23.99,1,4/17/2025,4/24/2025
+161.0,38.0,28,Rochester,Minnesota,clothing,shirt,Black,25.99,2,5/24/2025,5/28/2025
+478.0,718.0,30,San Francisco,California,clothing,shirt,Black,25.99,1,6/15/2025,6/17/2025
+782.0,299.0,32,Newport Beach,California,outerwear,hoodie,Gray,45.99,1,11/18/2025,11/24/2025
+762.0,475.0,40,Appleton,Wisconsin,clothing,t-shirt,Black,17.99,1,3/8/2025,3/12/2025
+880.0,54.0,49,Detroit,Michigan,clothing,sweater,Navy,33.99,4,10/14/2025,10/19/2025
+370.0,943.0,38,Flint,Michigan,clothing,t-shirt,Black,17.99,2,4/11/2025,4/18/2025
+402.0,410.0,19,Fullerton,California,clothing,t-shirt,White,17.99,2,6/7/2025,6/8/2025
+963.0,,22,Seattle,Washington,clothing,socks,White,11.99,3,11/5/2025,11/6/2025
+486.0,315.0,52,Inglewood,California,clothing,t-shirt,Black,17.99,2,2/12/2025,2/18/2025
+662.0,451.0,23,Los Angeles,California,clothing,shirt,Gray,25.99,4,2/21/2025,2/22/2025
+447.0,918.0,34,San Francisco,California,accessories,hat,Navy,15.99,1,8/30/2025,9/1/2025
+80.0,907.0,20,Fresno,California,outerwear,hoodie,Gray,45.99,1,12/2/2025,12/4/2025
+925.0,676.0,35,Muskegon,Michigan,clothing,shirt,White,25.99,1,1/15/2025,1/19/2025
+141.0,43.0,40,Irvine,California,outerwear,jacket,Black,59.99,1,7/12/2025,7/19/2025
+365.0,533.0,39,Spokane,Washington,clothing,t-shirt,Black,17.99,2,,
+199.0,224.0,25,Pasadena,California,accessories,backpack,White,39.99,1,8/17/2025,8/23/2025
+634.0,740.0,25,Colorado Springs,Colorado,accessories,hat,Black,15.99,2,6/20/2025,6/24/2025
+361.0,676.0,35,Muskegon,Michigan,clothing,shirt,Gray,25.99,3,9/30/2025,10/1/2025
+707.0,613.0,53,Salem,Oregon,clothing,t-shirt,White,17.99,1,3/19/2025,3/26/2025
+312.0,177.0,33,Orange,California,clothing,sweater,Navy,33.99,2,3/3/2025,3/10/2025
+666.0,908.0,64,Sacramento,California,clothing,socks,Gray,11.99,1,4/13/2025,4/16/2025
+76.0,840.0,43,Seattle,Washington,outerwear,hoodie,Navy,45.99,2,,
+43.0,88.0,20,Boise,Idaho,accessories,hat,Black,15.99,3,9/11/2025,9/18/2025
+785.0,55.0,56,Los Angeles,California,clothing,pants,Beige,37.99,2,7/9/2025,7/10/2025
+324.0,273.0,29,Minneapolis,Minnesota,clothing,socks,White,11.99,3,12/11/2025,12/15/2025
+824.0,518.0,21,Boulder,Colorado,clothing,sweater,Navy,33.99,1,10/10/2025,10/15/2025
+939.0,383.0,18,Grand Rapids,Michigan,clothing,sweater,Gray,33.99,2,1/14/2025,1/17/2025
+42.0,847.0,36,Minneapolis,Minnesota,outerwear,jacket,Black,59.99,3,4/30/2025,5/4/2025
+194.0,676.0,35,Muskegon,Michigan,clothing,sweater,Black,33.99,1,5/18/2025,5/22/2025
+697.0,597.0,44,Sacramento,California,outerwear,hoodie,White,45.99,1,11/30/2025,12/5/2025
+305.0,668.0,64,Tacoma,Washington,clothing,sweater,Navy,33.99,3,2/22/2025,3/1/2025
+652.0,282.0,23,Portland,Oregon,outerwear,hoodie,Black,45.99,1,2/19/2025,2/20/2025
+410.0,825.0,23,Spokane,Washington,clothing,t-shirt,Black,17.99,2,1/14/2025,1/15/2025
+495.0,871.0,43,Sacramento,California,clothing,t-shirt,White,17.99,1,,
+105.0,587.0,39,Boulder,Colorado,clothing,pants,Black,37.99,1,2/23/2025,2/24/2025
+32.0,678.0,22,Saint Paul,Minnesota,accessories,hat,Gray,15.99,1,4/15/2025,4/22/2025
+738.0,781.0,59,San Diego,California,clothing,t-shirt,White,17.99,6,7/31/2025,8/6/2025
+933.0,180.0,43,Fresno,California,clothing,socks,White,11.99,4,5/25/2025,5/27/2025
+740.0,525.0,29,Saint Paul,Minnesota,outerwear,jacket,White,59.99,2,1/10/2025,1/12/2025
+383.0,658.0,22,Fullerton,California,clothing,t-shirt,Black,17.99,1,2/23/2025,2/25/2025
+,592.0,41,San Diego,California,outerwear,hoodie,Gray,45.99,1,9/16/2025,9/22/2025
+908.0,229.0,35,Lansing,Michigan,clothing,socks,White,11.99,1,6/25/2025,6/30/2025
+,183.0,52,Milwaukee,Wisconsin,clothing,t-shirt,White,17.99,3,3/4/2025,3/5/2025
+444.0,565.0,33,North Hollywood,California,clothing,socks,White,11.99,3,6/15/2025,6/21/2025
+352.0,751.0,37,Alhambra,California,clothing,sweater,Black,33.99,1,10/25/2025,10/30/2025
+792.0,486.0,47,Oceanside,California,outerwear,hoodie,Gray,45.99,3,8/3/2025,8/8/2025
+713.0,116.0,57,Seattle,Washington,clothing,sweater,Navy,33.99,1,1/14/2025,1/21/2025
+188.0,550.0,41,Denver,Colorado,clothing,shirt,White,25.99,1,10/27/2025,10/30/2025
+533.0,418.0,32,San Bernardino,California,clothing,shirt,Black,25.99,1,11/11/2025,11/13/2025
+893.0,385.0,52,Anaheim,California,outerwear,jacket,Navy,59.99,2,9/11/2025,9/16/2025
+418.0,426.0,26,Fullerton,California,clothing,sweater,Gray,33.99,2,12/26/2025,12/30/2025
+78.0,863.0,18,Sacramento,California,outerwear,hoodie,Navy,45.99,2,5/14/2025,5/17/2025
+301.0,749.0,32,Los Angeles,California,clothing,socks,Gray,11.99,1,8/3/2025,8/5/2025
+625.0,95.0,29,Minneapolis,Minnesota,clothing,socks,White,11.99,4,2/2/2025,2/3/2025
+879.0,692.0,38,Berkeley,California,clothing,shirt,Gray,25.99,1,2/22/2025,3/1/2025
+796.0,151.0,42,North Hollywood,California,clothing,shirt,White,25.99,1,11/16/2025,11/18/2025
+285.0,680.0,65,Portland,Oregon,clothing,t-shirt,White,17.99,2,2/21/2025,2/25/2025
+917.0,885.0,56,Los Angeles,California,clothing,t-shirt,Black,17.99,2,2/8/2025,2/13/2025
+420.0,669.0,20,Sacramento,California,clothing,socks,White,11.99,5,9/1/2025,9/2/2025
+103.0,918.0,34,San Francisco,California,outerwear,hoodie,Black,45.99,1,6/1/2025,6/4/2025
+133.0,617.0,22,San Francisco,California,outerwear,jacket,Black,59.99,5,10/8/2025,10/14/2025
+347.0,489.0,40,Saint Paul,Minnesota,clothing,sweater,Navy,33.99,2,12/8/2025,12/10/2025
+406.0,178.0,45,Green Bay,Wisconsin,outerwear,hoodie,Gray,45.99,1,11/1/2025,11/2/2025
+845.0,,57,Monticello,Minnesota,clothing,socks,White,11.99,4,5/7/2025,5/13/2025
+880.0,881.0,28,Chula Vista,California,clothing,sweater,Gray,33.99,3,12/24/2025,12/29/2025
+89.0,734.0,29,Northridge,California,clothing,socks,White,11.99,2,6/21/2025,6/22/2025
+884.0,430.0,41,Colorado Springs,Colorado,clothing,socks,Black,11.99,1,11/10/2025,11/16/2025
+437.0,329.0,51,Idaho Falls,Idaho,clothing,pants,Navy,37.99,1,10/12/2025,10/19/2025
+134.0,433.0,27,Torrance,California,clothing,shorts,Beige,23.99,1,1/1/2025,1/4/2025
+317.0,206.0,52,San Rafael,California,clothing,t-shirt,Black,17.99,4,9/2/2025,9/5/2025
+699.0,192.0,40,Oakland,California,outerwear,jacket,Navy,59.99,1,3/3/2025,3/7/2025
+966.0,703.0,39,Sacramento,California,accessories,hat,Blue,15.99,1,10/6/2025,10/13/2025
+194.0,786.0,32,Sacramento,California,accessories,backpack,White,39.99,1,3/3/2025,3/5/2025
+642.0,221.0,44,Littleton,Colorado,accessories,hat,Gray,15.99,3,12/30/2025,12/31/2025
+913.0,674.0,58,Spokane,Washington,clothing,shorts,Navy,23.99,2,8/10/2025,8/15/2025
+636.0,148.0,38,Spokane,Washington,outerwear,jacket,Gray,59.99,1,12/17/2025,12/23/2025
+539.0,288.0,20,Whittier,California,clothing,t-shirt,Black,17.99,1,10/31/2025,11/7/2025
+177.0,438.0,53,Tacoma,Washington,clothing,t-shirt,White,17.99,1,1/17/2025,1/20/2025
+481.0,227.0,33,Colorado Springs,Colorado,clothing,socks,White,11.99,1,9/21/2025,9/27/2025
+487.0,112.0,18,Berkeley,California,clothing,t-shirt,White,17.99,1,7/26/2025,7/29/2025
+88.0,556.0,65,San Diego,California,clothing,socks,Gray,11.99,2,4/20/2025,4/26/2025
+319.0,771.0,21,Pasadena,California,outerwear,hoodie,Beige,45.99,1,9/23/2025,9/24/2025
+77.0,127.0,46,Orange,California,clothing,pants,Beige,37.99,1,2/25/2025,2/26/2025
+887.0,850.0,48,Minneapolis,Minnesota,clothing,shirt,Beige,25.99,3,11/30/2025,12/3/2025
+464.0,339.0,32,Sacramento,California,outerwear,jacket,Navy,59.99,1,2/16/2025,2/21/2025
+540.0,604.0,35,San Diego,California,accessories,hat,Navy,15.99,1,5/21/2025,5/23/2025
+130.0,615.0,43,Denver,Colorado,clothing,shirt,Gray,25.99,2,6/9/2025,6/13/2025
+274.0,712.0,37,Vancouver,Washington,clothing,shorts,Gray,23.99,1,8/18/2025,8/25/2025
+380.0,554.0,35,San Francisco,California,clothing,t-shirt,White,17.99,4,11/5/2025,11/9/2025
+707.0,101.0,61,Milwaukee,Wisconsin,clothing,t-shirt,White,17.99,1,2/3/2025,2/9/2025
+753.0,391.0,61,Oakland,California,outerwear,hoodie,Blue,45.99,2,6/7/2025,6/14/2025
+890.0,535.0,23,Glendale,California,clothing,socks,White,11.99,1,2/12/2025,2/19/2025
+276.0,361.0,36,San Diego,California,clothing,sweater,Black,33.99,3,2/14/2025,2/18/2025
+121.0,944.0,37,Spokane,Washington,outerwear,hoodie,Navy,45.99,2,9/2/2025,9/4/2025
+675.0,458.0,26,Garden Grove,California,outerwear,hoodie,Navy,45.99,1,9/25/2025,10/2/2025
+438.0,911.0,26,Duluth,Minnesota,clothing,socks,White,11.99,1,9/27/2025,10/2/2025
+326.0,100.0,38,Chico,California,clothing,sweater,Navy,33.99,4,7/21/2025,7/26/2025
+289.0,678.0,22,Saint Paul,Minnesota,clothing,t-shirt,White,17.99,3,6/5/2025,6/8/2025
+876.0,562.0,44,San Francisco,California,outerwear,hoodie,Black,45.99,3,4/17/2025,4/22/2025
+979.0,101.0,61,Milwaukee,Wisconsin,clothing,t-shirt,Gray,17.99,5,7/15/2025,7/17/2025
+147.0,27.0,25,Milwaukee,Wisconsin,clothing,t-shirt,White,17.99,2,8/1/2025,8/8/2025
+79.0,553.0,31,Los Angeles,California,clothing,sweater,Gray,33.99,1,3/15/2025,3/21/2025
+315.0,326.0,32,San Francisco,California,clothing,socks,White,11.99,2,8/23/2025,8/29/2025
+44.0,73.0,32,San Diego,California,clothing,t-shirt,White,17.99,2,4/22/2025,4/23/2025
+236.0,986.0,46,Seattle,Washington,clothing,socks,Gray,11.99,1,3/28/2025,4/2/2025
+762.0,978.0,21,Fresno,California,clothing,socks,Gray,11.99,1,7/28/2025,8/3/2025
+783.0,615.0,43,Denver,Colorado,accessories,hat,Black,15.99,1,3/21/2025,3/25/2025
+459.0,665.0,25,Orange,California,outerwear,jacket,Navy,59.99,3,6/28/2025,7/2/2025
+270.0,952.0,58,San Diego,California,accessories,hat,Beige,15.99,1,12/6/2025,12/13/2025
+37.0,407.0,18,Lansing,Michigan,accessories,backpack,Navy,39.99,1,8/3/2025,8/4/2025
+550.0,184.0,38,Los Angeles,California,clothing,sweater,Black,33.99,2,4/3/2025,4/10/2025
+515.0,747.0,59,Pocatello,Idaho,outerwear,hoodie,Gray,45.99,3,7/31/2025,8/3/2025
+45.0,765.0,23,Detroit,Michigan,clothing,shirt,Black,25.99,1,7/1/2025,7/7/2025
+650.0,48.0,52,Littleton,Colorado,clothing,shorts,Blue,23.99,4,11/27/2025,11/28/2025
+878.0,830.0,53,Seattle,Washington,outerwear,hoodie,Navy,45.99,1,4/22/2025,4/24/2025
+509.0,262.0,37,San Diego,California,clothing,socks,Gray,11.99,1,5/13/2025,5/17/2025
+50.0,110.0,24,Saint Paul,Minnesota,clothing,t-shirt,White,17.99,1,9/14/2025,9/16/2025
+321.0,74.0,18,Minneapolis,Minnesota,outerwear,hoodie,Black,45.99,3,4/9/2025,4/12/2025
+155.0,649.0,64,Boulder,Colorado,clothing,shirt,Beige,25.99,1,11/17/2025,11/19/2025
+237.0,146.0,49,Oakland,California,clothing,socks,Gray,11.99,6,12/18/2025,12/20/2025
+517.0,24.0,24,Saint Paul,Minnesota,clothing,sweater,Navy,33.99,1,9/21/2025,9/28/2025
+498.0,461.0,30,Sacramento,California,outerwear,hoodie,White,45.99,3,8/2/2025,8/3/2025
+899.0,233.0,30,Los Angeles,California,clothing,shorts,Black,23.99,2,3/7/2025,3/11/2025
+313.0,699.0,57,North Hollywood,California,clothing,t-shirt,White,17.99,1,6/14/2025,6/19/2025
+424.0,266.0,55,Van Nuys,California,outerwear,hoodie,Navy,45.99,1,8/26/2025,8/30/2025
+325.0,707.0,32,Irvine,California,clothing,sweater,Gray,33.99,2,3/4/2025,3/7/2025
+776.0,158.0,54,Palmdale,California,clothing,pants,Beige,37.99,1,11/19/2025,11/24/2025
+572.0,950.0,29,Grand Rapids,Michigan,outerwear,jacket,Black,59.99,1,8/4/2025,8/6/2025
+141.0,224.0,25,Pasadena,California,outerwear,hoodie,Navy,45.99,3,4/18/2025,4/22/2025
+442.0,781.0,59,San Diego,California,outerwear,hoodie,Navy,45.99,1,7/4/2025,7/8/2025
+438.0,,51,Sacramento,California,clothing,socks,White,11.99,2,5/19/2025,5/20/2025
+408.0,718.0,30,San Francisco,California,clothing,shirt,Navy,25.99,1,10/1/2025,10/7/2025
+228.0,611.0,20,Orange,California,clothing,pants,Black,37.99,4,12/4/2025,12/8/2025
+520.0,845.0,32,Sacramento,California,outerwear,jacket,Black,59.99,1,7/24/2025,7/28/2025
+371.0,161.0,37,Stockton,California,clothing,t-shirt,Gray,17.99,2,2/5/2025,2/6/2025
+716.0,242.0,48,Madison,Wisconsin,clothing,pants,Black,37.99,1,5/10/2025,5/17/2025
+366.0,905.0,19,Pasadena,California,clothing,sweater,Black,33.99,1,12/26/2025,12/27/2025
+639.0,446.0,28,Seattle,Washington,clothing,t-shirt,Navy,17.99,2,1/5/2025,1/7/2025
+90.0,790.0,56,Minneapolis,Minnesota,clothing,t-shirt,Black,17.99,2,11/25/2025,11/26/2025
+969.0,682.0,32,Madison,Wisconsin,outerwear,jacket,Black,59.99,1,12/18/2025,12/24/2025
+205.0,703.0,39,Sacramento,California,clothing,t-shirt,White,17.99,1,7/13/2025,7/14/2025
+330.0,413.0,22,Colorado Springs,Colorado,clothing,shirt,Navy,25.99,1,10/15/2025,10/20/2025
+450.0,440.0,23,Colorado Springs,Colorado,clothing,sweater,Gray,33.99,1,,
+978.0,136.0,65,Sacramento,California,accessories,hat,Black,15.99,1,9/19/2025,9/23/2025
+613.0,309.0,46,Visalia,California,clothing,socks,Gray,11.99,1,7/30/2025,8/1/2025
+666.0,832.0,38,Minneapolis,Minnesota,outerwear,hoodie,Gray,45.99,2,8/26/2025,8/28/2025
+85.0,311.0,57,San Diego,California,clothing,t-shirt,White,17.99,2,3/15/2025,3/17/2025
+321.0,846.0,44,Long Beach,California,clothing,shorts,Beige,23.99,1,4/30/2025,5/3/2025
+409.0,159.0,56,Los Angeles,California,clothing,shirt,White,25.99,1,1/29/2025,2/2/2025
+420.0,680.0,65,Portland,Oregon,accessories,hat,Beige,15.99,1,1/14/2025,1/17/2025
+258.0,44.0,27,Stockton,California,clothing,shirt,Blue,25.99,5,11/13/2025,11/20/2025
+651.0,915.0,19,Bakersfield,California,clothing,shirt,Navy,25.99,3,3/5/2025,3/7/2025
+644.0,488.0,45,Saint Paul,Minnesota,clothing,sweater,Navy,33.99,1,5/30/2025,6/6/2025
+684.0,284.0,18,Detroit,Michigan,clothing,t-shirt,White,17.99,3,12/10/2025,12/16/2025
+594.0,70.0,27,Denver,Colorado,accessories,backpack,Black,39.99,1,7/8/2025,7/14/2025
+569.0,790.0,56,Minneapolis,Minnesota,accessories,hat,Gray,15.99,1,5/8/2025,5/12/2025
+487.0,979.0,40,Detroit,Michigan,clothing,sweater,Gray,33.99,1,12/19/2025,12/20/2025
+965.0,942.0,36,Fresno,California,clothing,shirt,Navy,25.99,2,1/3/2025,1/7/2025
+196.0,605.0,22,Duluth,Minnesota,clothing,t-shirt,Gray,17.99,1,5/25/2025,5/26/2025
+966.0,939.0,61,Sacramento,California,accessories,backpack,Navy,39.99,1,6/6/2025,6/12/2025
+92.0,126.0,45,San Jose,California,clothing,pants,Navy,37.99,1,11/27/2025,12/3/2025
+968.0,630.0,31,Saint Cloud,Minnesota,clothing,t-shirt,Black,17.99,2,3/21/2025,3/22/2025
+829.0,109.0,60,Oakland,California,clothing,shorts,Blue,23.99,4,5/25/2025,5/31/2025
+649.0,525.0,29,Saint Paul,Minnesota,clothing,t-shirt,White,17.99,1,12/30/2025,12/31/2025
+579.0,834.0,52,Oakland,California,clothing,socks,White,11.99,1,10/23/2025,10/24/2025
+663.0,312.0,23,Fresno,California,outerwear,jacket,Black,59.99,3,12/10/2025,12/17/2025
+332.0,221.0,44,Littleton,Colorado,clothing,t-shirt,Black,17.99,2,8/19/2025,8/22/2025
+270.0,963.0,28,Colorado Springs,Colorado,clothing,sweater,Navy,33.99,1,3/15/2025,3/20/2025
+814.0,25.0,22,Saint Paul,Minnesota,clothing,socks,White,11.99,3,7/5/2025,7/6/2025
+489.0,891.0,30,Portland,Oregon,clothing,t-shirt,Gray,17.99,1,6/16/2025,6/23/2025
+928.0,37.0,52,Stockton,California,accessories,backpack,Navy,39.99,2,3/25/2025,3/26/2025
+408.0,966.0,61,San Mateo,California,clothing,socks,White,11.99,1,4/16/2025,4/21/2025
+127.0,422.0,28,Boise,Idaho,accessories,backpack,Navy,39.99,1,,
+976.0,374.0,45,Colorado Springs,Colorado,clothing,shirt,Navy,25.99,1,6/15/2025,6/17/2025
+293.0,244.0,35,Irvine,California,clothing,t-shirt,Black,17.99,3,12/10/2025,12/11/2025
+256.0,704.0,27,Modesto,California,clothing,t-shirt,Black,17.99,1,10/16/2025,10/19/2025
+807.0,614.0,53,San Diego,California,outerwear,hoodie,Black,45.99,2,2/16/2025,2/17/2025
+855.0,396.0,26,Portland,Oregon,clothing,sweater,Black,33.99,2,6/5/2025,6/11/2025
+199.0,474.0,39,Dearborn,Michigan,clothing,shirt,White,25.99,1,12/3/2025,12/10/2025
+411.0,316.0,50,Portland,Oregon,outerwear,hoodie,Gray,45.99,1,3/13/2025,3/20/2025
+617.0,103.0,50,Detroit,Michigan,clothing,shorts,Navy,23.99,7,11/5/2025,11/7/2025
+878.0,636.0,43,San Diego,California,clothing,socks,Gray,11.99,2,9/29/2025,10/4/2025
+15.0,884.0,53,Colorado Springs,Colorado,clothing,t-shirt,White,17.99,2,9/27/2025,9/29/2025
+215.0,899.0,30,Minneapolis,Minnesota,clothing,shirt,Black,25.99,1,9/19/2025,9/23/2025
+948.0,281.0,32,Minneapolis,Minnesota,accessories,backpack,White,39.99,2,5/29/2025,6/3/2025
+888.0,926.0,39,Colorado Springs,Colorado,clothing,socks,White,11.99,2,2/7/2025,2/11/2025
+639.0,251.0,18,Santa Monica,California,clothing,t-shirt,White,17.99,1,11/16/2025,11/19/2025
+122.0,37.0,52,Stockton,California,clothing,sweater,Black,33.99,5,10/3/2025,10/10/2025
+340.0,192.0,40,Oakland,California,clothing,shorts,Navy,23.99,2,1/19/2025,1/20/2025
+920.0,621.0,41,Portland,Oregon,outerwear,hoodie,Black,45.99,2,7/5/2025,7/9/2025
+372.0,618.0,52,Northridge,California,outerwear,hoodie,Gray,45.99,2,1/30/2025,2/5/2025
+499.0,212.0,23,Denver,Colorado,clothing,socks,Black,11.99,1,1/10/2025,1/17/2025
+113.0,585.0,47,Oakland,California,clothing,shorts,Navy,23.99,3,2/27/2025,3/2/2025
+334.0,634.0,30,Colorado Springs,Colorado,outerwear,hoodie,White,45.99,2,5/28/2025,6/1/2025
+489.0,239.0,27,Seattle,Washington,outerwear,jacket,Blue,59.99,1,1/7/2025,1/12/2025
+846.0,584.0,18,Sacramento,California,clothing,shirt,Gray,25.99,2,5/26/2025,5/31/2025
+391.0,356.0,21,Boise,Idaho,clothing,t-shirt,Black,17.99,2,12/1/2025,12/3/2025
+100.0,273.0,29,Minneapolis,Minnesota,clothing,shirt,Black,25.99,1,8/11/2025,8/15/2025
+214.0,471.0,41,Young America,Minnesota,clothing,t-shirt,White,17.99,5,5/20/2025,5/21/2025
+436.0,130.0,53,Pueblo,Colorado,clothing,shirt,Navy,25.99,1,8/25/2025,8/30/2025
+594.0,232.0,48,Milwaukee,Wisconsin,clothing,pants,Black,37.99,1,5/4/2025,5/11/2025
+742.0,637.0,22,Carlsbad,California,clothing,sweater,Gray,33.99,4,11/28/2025,11/30/2025
+675.0,186.0,58,San Bernardino,California,clothing,t-shirt,Navy,17.99,2,12/6/2025,12/13/2025
+542.0,734.0,29,Northridge,California,clothing,sweater,Navy,33.99,1,10/16/2025,10/17/2025
+428.0,703.0,39,Sacramento,California,clothing,socks,White,11.99,3,9/17/2025,9/20/2025
+294.0,539.0,65,Madison,Wisconsin,outerwear,hoodie,Gray,45.99,1,9/1/2025,9/3/2025
+925.0,115.0,52,Los Angeles,California,outerwear,jacket,Gray,59.99,1,1/17/2025,1/23/2025
+592.0,321.0,22,Inglewood,California,outerwear,hoodie,Navy,45.99,1,11/6/2025,11/13/2025
+78.0,658.0,22,Fullerton,California,outerwear,hoodie,Blue,45.99,1,6/1/2025,6/4/2025
+620.0,,28,Van Nuys,California,clothing,socks,White,11.99,2,10/31/2025,11/6/2025
+334.0,708.0,45,Minneapolis,Minnesota,clothing,sweater,Blue,33.99,3,8/10/2025,8/11/2025
+683.0,872.0,47,Inglewood,California,clothing,socks,Black,11.99,2,10/27/2025,10/31/2025
+5.0,295.0,25,Torrance,California,clothing,shirt,Gray,25.99,3,10/16/2025,10/20/2025
+953.0,642.0,39,Long Beach,California,outerwear,hoodie,Navy,45.99,1,3/3/2025,3/6/2025
+602.0,674.0,58,Spokane,Washington,clothing,sweater,Gray,33.99,2,2/13/2025,2/19/2025
+968.0,510.0,29,Santa Barbara,California,clothing,shirt,Black,25.99,1,4/8/2025,4/12/2025
+673.0,206.0,52,San Rafael,California,accessories,backpack,Black,39.99,1,4/22/2025,4/26/2025
+87.0,395.0,29,Alhambra,California,clothing,pants,Navy,37.99,1,2/19/2025,2/25/2025
+626.0,191.0,18,Portland,Oregon,clothing,socks,White,11.99,3,8/11/2025,8/14/2025
+126.0,420.0,60,Irvine,California,outerwear,jacket,Black,59.99,3,8/17/2025,8/20/2025
+394.0,959.0,39,Portland,Oregon,clothing,sweater,Black,33.99,1,11/11/2025,11/15/2025
+,447.0,50,Denver,Colorado,clothing,socks,Black,11.99,4,5/9/2025,5/10/2025
+8.0,659.0,34,Pocatello,Idaho,clothing,socks,Black,11.99,1,11/7/2025,11/14/2025
+299.0,663.0,28,Irvine,California,clothing,socks,Gray,11.99,3,2/4/2025,2/8/2025
+429.0,437.0,61,Grand Rapids,Michigan,outerwear,hoodie,Blue,45.99,2,3/27/2025,4/3/2025
+273.0,39.0,29,North Hollywood,California,accessories,hat,Blue,15.99,1,12/19/2025,12/22/2025
+775.0,224.0,25,Pasadena,California,outerwear,jacket,White,59.99,2,11/20/2025,11/27/2025
+741.0,,34,Minneapolis,Minnesota,clothing,shirt,Navy,25.99,3,,
+781.0,816.0,33,Oakland,California,clothing,shorts,Beige,23.99,2,6/26/2025,7/2/2025
+520.0,851.0,42,Englewood,Colorado,clothing,t-shirt,Navy,17.99,4,9/15/2025,9/20/2025
+974.0,455.0,31,Pasadena,California,clothing,sweater,Black,33.99,2,10/8/2025,10/14/2025
+975.0,348.0,29,Spokane,Washington,clothing,sweater,Gray,33.99,1,12/22/2025,12/29/2025
+289.0,727.0,40,Fresno,California,outerwear,hoodie,Black,45.99,1,,
+985.0,92.0,20,Denver,Colorado,outerwear,hoodie,Navy,45.99,1,5/27/2025,6/2/2025
+210.0,240.0,45,Loretto,Minnesota,clothing,shorts,Beige,23.99,2,6/5/2025,6/6/2025
+416.0,14.0,48,Littleton,Colorado,clothing,shirt,Black,25.99,4,3/31/2025,4/2/2025
+718.0,713.0,63,Sacramento,California,outerwear,jacket,Blue,59.99,3,10/14/2025,10/20/2025
+754.0,984.0,25,Milwaukee,Wisconsin,outerwear,jacket,Navy,59.99,3,3/22/2025,3/26/2025
+783.0,40.0,42,Stockton,California,outerwear,hoodie,Beige,45.99,1,7/17/2025,7/19/2025
+391.0,54.0,49,Detroit,Michigan,accessories,hat,Black,15.99,1,2/5/2025,2/10/2025
+661.0,535.0,23,Glendale,California,outerwear,hoodie,Black,45.99,2,5/16/2025,5/18/2025
+440.0,965.0,54,Los Angeles,California,clothing,sweater,Black,33.99,1,,
+978.0,858.0,41,Inglewood,California,clothing,socks,Black,11.99,4,4/20/2025,4/24/2025
+506.0,975.0,27,Ventura,California,clothing,t-shirt,Navy,17.99,3,9/9/2025,9/14/2025
+785.0,107.0,48,Seattle,Washington,accessories,backpack,White,39.99,1,11/22/2025,11/24/2025
+265.0,863.0,18,Sacramento,California,clothing,sweater,Navy,33.99,1,9/28/2025,9/30/2025
+35.0,70.0,27,Denver,Colorado,clothing,sweater,Gray,33.99,1,4/16/2025,4/18/2025
+539.0,629.0,40,Flint,Michigan,outerwear,hoodie,Beige,45.99,2,1/21/2025,1/25/2025
+216.0,954.0,48,Tacoma,Washington,accessories,backpack,Navy,39.99,4,1/28/2025,1/29/2025
+33.0,653.0,29,Spokane,Washington,outerwear,hoodie,Black,45.99,3,1/16/2025,1/22/2025
+53.0,761.0,55,Boise,Idaho,clothing,sweater,Gray,33.99,4,8/24/2025,8/27/2025
+370.0,719.0,22,Colorado Springs,Colorado,outerwear,hoodie,Black,45.99,3,3/26/2025,3/30/2025
+761.0,,38,Fresno,California,accessories,hat,Blue,15.99,1,7/23/2025,7/27/2025
+724.0,285.0,31,San Diego,California,clothing,shorts,Gray,23.99,1,7/19/2025,7/26/2025
+105.0,810.0,26,Minneapolis,Minnesota,accessories,backpack,Navy,39.99,2,10/25/2025,11/1/2025
+246.0,744.0,23,North Hollywood,California,outerwear,hoodie,Gray,45.99,2,7/27/2025,7/30/2025
+591.0,654.0,21,Los Angeles,California,outerwear,hoodie,Navy,45.99,1,7/15/2025,7/19/2025
+528.0,911.0,26,Duluth,Minnesota,outerwear,jacket,Black,59.99,1,11/4/2025,11/7/2025
+636.0,305.0,56,Eugene,Oregon,accessories,hat,Navy,15.99,1,1/28/2025,1/29/2025
+500.0,607.0,30,Pasadena,California,accessories,backpack,Navy,39.99,2,12/6/2025,12/12/2025
+53.0,266.0,55,Van Nuys,California,clothing,shirt,Beige,25.99,1,9/3/2025,9/6/2025
+893.0,773.0,60,Seattle,Washington,clothing,socks,Gray,11.99,1,6/20/2025,6/23/2025
+274.0,938.0,45,San Francisco,California,clothing,shorts,Beige,23.99,2,5/24/2025,5/26/2025
+10.0,163.0,40,San Francisco,California,accessories,backpack,White,39.99,1,2/7/2025,2/12/2025
+187.0,703.0,39,Sacramento,California,clothing,shirt,Gray,25.99,3,9/12/2025,9/14/2025
+423.0,741.0,44,Madison,Wisconsin,accessories,backpack,Navy,39.99,3,10/6/2025,10/9/2025
+980.0,229.0,35,Lansing,Michigan,clothing,sweater,Black,33.99,1,3/9/2025,3/13/2025
+267.0,958.0,43,Sacramento,California,outerwear,hoodie,Gray,45.99,1,2/3/2025,2/8/2025
+481.0,137.0,28,Minneapolis,Minnesota,accessories,hat,Gray,15.99,1,2/5/2025,2/10/2025
+867.0,368.0,46,San Francisco,California,clothing,sweater,Black,33.99,1,5/1/2025,5/6/2025
+107.0,965.0,54,Los Angeles,California,clothing,socks,Black,11.99,2,9/14/2025,9/17/2025
+942.0,589.0,57,Concord,California,clothing,socks,White,11.99,2,1/6/2025,1/11/2025
+469.0,87.0,35,Sacramento,California,accessories,hat,Gray,15.99,2,5/4/2025,5/6/2025
+749.0,772.0,42,Portland,Oregon,clothing,t-shirt,Black,17.99,5,1/12/2025,1/19/2025
+974.0,564.0,23,Detroit,Michigan,clothing,sweater,Gray,33.99,1,6/13/2025,6/16/2025
+875.0,806.0,18,Monticello,Minnesota,outerwear,hoodie,Navy,45.99,3,10/1/2025,10/4/2025
+383.0,291.0,45,Flint,Michigan,outerwear,hoodie,Beige,45.99,2,10/24/2025,10/30/2025
+,778.0,27,Boise,Idaho,accessories,backpack,Navy,39.99,1,10/20/2025,10/27/2025
+65.0,542.0,57,Warren,Michigan,accessories,backpack,Black,39.99,3,8/31/2025,9/1/2025
+204.0,181.0,37,Santa Monica,California,outerwear,hoodie,Gray,45.99,1,3/24/2025,3/28/2025
+661.0,396.0,26,Portland,Oregon,outerwear,hoodie,Black,45.99,1,3/12/2025,3/19/2025
+702.0,929.0,30,Bakersfield,California,outerwear,jacket,Black,59.99,1,6/18/2025,6/22/2025
+136.0,599.0,50,Bakersfield,California,outerwear,hoodie,Black,45.99,2,12/12/2025,12/17/2025
+91.0,,28,Milwaukee,Wisconsin,clothing,pants,Navy,37.99,2,7/24/2025,7/30/2025
+567.0,311.0,57,San Diego,California,clothing,pants,Navy,37.99,2,4/15/2025,4/20/2025
+690.0,811.0,38,Detroit,Michigan,clothing,socks,Black,11.99,3,5/23/2025,5/28/2025
+142.0,270.0,34,Fresno,California,outerwear,hoodie,Black,45.99,1,11/17/2025,11/21/2025
+556.0,633.0,61,Sacramento,California,accessories,hat,Black,15.99,1,6/12/2025,6/18/2025
+889.0,153.0,49,Denver,Colorado,clothing,shirt,Navy,25.99,1,3/14/2025,3/21/2025
+900.0,314.0,48,Kalamazoo,Michigan,clothing,t-shirt,White,17.99,2,7/16/2025,7/22/2025
+343.0,818.0,34,Modesto,California,clothing,shirt,Gray,25.99,4,5/25/2025,6/1/2025
+670.0,666.0,43,Boise,Idaho,clothing,sweater,Navy,33.99,1,8/20/2025,8/23/2025
+488.0,661.0,50,Maple Plain,Minnesota,outerwear,hoodie,Gray,45.99,2,3/22/2025,3/28/2025
+265.0,390.0,19,San Francisco,California,clothing,socks,White,11.99,2,11/11/2025,11/13/2025
+59.0,264.0,26,Spokane,Washington,outerwear,hoodie,Gray,45.99,1,10/13/2025,10/17/2025
+948.0,392.0,36,Colorado Springs,Colorado,accessories,hat,Blue,15.99,1,3/20/2025,3/27/2025
+294.0,517.0,26,Vancouver,Washington,accessories,hat,Beige,15.99,3,,
+332.0,951.0,21,Milwaukee,Wisconsin,clothing,sweater,Navy,33.99,1,10/25/2025,10/26/2025
+,134.0,19,Visalia,California,clothing,t-shirt,Black,17.99,5,8/3/2025,8/6/2025
+819.0,670.0,53,Denver,Colorado,accessories,backpack,Black,39.99,2,12/23/2025,12/24/2025
+111.0,426.0,26,Fullerton,California,outerwear,jacket,Black,59.99,2,10/1/2025,10/5/2025
+417.0,50.0,23,Warren,Michigan,clothing,t-shirt,Navy,17.99,2,6/3/2025,6/8/2025
+70.0,649.0,64,Boulder,Colorado,clothing,sweater,Gray,33.99,1,12/25/2025,12/26/2025
+970.0,408.0,20,Detroit,Michigan,clothing,sweater,Navy,33.99,1,5/5/2025,5/10/2025
+437.0,337.0,27,Pasadena,California,outerwear,hoodie,Blue,45.99,1,3/13/2025,3/18/2025
+912.0,310.0,34,Los Angeles,California,accessories,backpack,Black,39.99,4,5/24/2025,5/31/2025
+247.0,299.0,32,Newport Beach,California,clothing,shirt,Gray,25.99,3,8/6/2025,8/12/2025
+261.0,524.0,32,Seattle,Washington,clothing,sweater,Navy,33.99,4,6/1/2025,6/7/2025
+361.0,194.0,45,Glendale,California,clothing,shirt,Beige,25.99,1,9/21/2025,9/28/2025
+587.0,68.0,57,Dearborn,Michigan,clothing,shorts,Blue,23.99,1,8/1/2025,8/8/2025
+434.0,223.0,46,Fresno,California,clothing,sweater,Gray,33.99,3,1/5/2025,1/12/2025
+352.0,588.0,28,Los Angeles,California,accessories,backpack,Black,39.99,2,3/2/2025,3/9/2025
+120.0,76.0,50,Colorado Springs,Colorado,clothing,t-shirt,Black,17.99,2,4/10/2025,4/15/2025
+296.0,892.0,38,San Francisco,California,accessories,backpack,Black,39.99,1,3/21/2025,3/26/2025
+591.0,236.0,60,Spokane,Washington,accessories,backpack,Black,39.99,1,1/10/2025,1/13/2025
+152.0,680.0,65,Portland,Oregon,clothing,t-shirt,Gray,17.99,1,2/17/2025,2/21/2025
+929.0,41.0,30,Glendale,California,outerwear,jacket,Navy,59.99,2,,
+526.0,189.0,36,Riverside,California,clothing,pants,Black,37.99,3,3/13/2025,3/15/2025
+925.0,492.0,38,San Diego,California,clothing,shorts,Navy,23.99,1,4/19/2025,4/23/2025
+749.0,132.0,55,Oxnard,California,outerwear,hoodie,Gray,45.99,1,1/7/2025,1/12/2025
+155.0,701.0,39,Simi Valley,California,outerwear,hoodie,Navy,45.99,1,10/12/2025,10/19/2025
+874.0,666.0,43,Boise,Idaho,clothing,shorts,Beige,23.99,1,4/9/2025,4/11/2025
+144.0,539.0,65,Madison,Wisconsin,accessories,hat,Black,15.99,2,10/19/2025,10/20/2025
+618.0,473.0,27,Burbank,California,clothing,t-shirt,Gray,17.99,1,8/1/2025,8/7/2025
+18.0,973.0,29,Tacoma,Washington,clothing,sweater,Navy,33.99,4,12/10/2025,12/13/2025
+117.0,664.0,51,Chico,California,outerwear,hoodie,Black,45.99,2,9/3/2025,9/10/2025
+915.0,352.0,32,Boise,Idaho,clothing,sweater,Black,33.99,1,2/16/2025,2/18/2025
+817.0,385.0,52,Anaheim,California,outerwear,jacket,Navy,59.99,3,7/20/2025,7/21/2025
+94.0,514.0,34,Young America,Minnesota,clothing,t-shirt,Gray,17.99,3,2/1/2025,2/6/2025
+328.0,901.0,44,Duluth,Minnesota,clothing,socks,White,11.99,1,1/7/2025,1/12/2025
+491.0,116.0,57,Seattle,Washington,clothing,t-shirt,Black,17.99,1,10/22/2025,10/27/2025
+769.0,748.0,34,Minneapolis,Minnesota,clothing,sweater,Black,33.99,1,2/8/2025,2/10/2025
+177.0,428.0,24,Los Angeles,California,accessories,backpack,White,39.99,1,9/11/2025,9/17/2025
+352.0,667.0,32,San Bernardino,California,outerwear,hoodie,Navy,45.99,5,10/17/2025,10/24/2025
+536.0,974.0,40,Santa Monica,California,clothing,t-shirt,White,17.99,3,4/19/2025,4/25/2025
+857.0,906.0,36,Minneapolis,Minnesota,clothing,t-shirt,White,17.99,2,6/21/2025,6/22/2025
+28.0,49.0,22,San Diego,California,outerwear,hoodie,Black,45.99,2,3/20/2025,3/26/2025
+130.0,685.0,53,San Jose,California,clothing,socks,Black,11.99,7,4/12/2025,4/13/2025
+,614.0,53,San Diego,California,accessories,hat,Black,15.99,1,6/16/2025,6/20/2025
+12.0,786.0,32,Sacramento,California,clothing,t-shirt,White,17.99,4,8/11/2025,8/18/2025
+728.0,369.0,35,North Hollywood,California,clothing,shorts,Beige,23.99,1,7/5/2025,7/12/2025
+749.0,105.0,30,Irvine,California,outerwear,hoodie,White,45.99,2,2/4/2025,2/9/2025
+393.0,716.0,36,Santa Cruz,California,clothing,shirt,White,25.99,3,12/19/2025,12/26/2025
+575.0,575.0,39,Denver,Colorado,clothing,t-shirt,White,17.99,3,11/8/2025,11/14/2025
+212.0,384.0,35,Lancaster,California,clothing,t-shirt,Black,17.99,3,,
+221.0,329.0,51,Idaho Falls,Idaho,clothing,shirt,Navy,25.99,3,8/19/2025,8/25/2025
+413.0,860.0,37,Lansing,Michigan,clothing,shorts,Beige,23.99,3,4/21/2025,4/26/2025
+,,62,Pomona,California,clothing,t-shirt,White,17.99,2,4/26/2025,4/30/2025
+459.0,72.0,64,Racine,Wisconsin,clothing,pants,Navy,37.99,3,5/15/2025,5/16/2025
+780.0,758.0,19,Fresno,California,accessories,backpack,White,39.99,1,7/25/2025,7/31/2025
+736.0,252.0,49,Fresno,California,clothing,t-shirt,Black,17.99,1,6/5/2025,6/11/2025
+180.0,298.0,20,Fullerton,California,clothing,t-shirt,White,17.99,1,2/5/2025,2/11/2025
+277.0,439.0,36,San Diego,California,clothing,shirt,White,25.99,2,8/1/2025,8/8/2025
+798.0,606.0,30,Warren,Michigan,clothing,shirt,White,25.99,1,12/21/2025,12/23/2025
+721.0,330.0,34,Aurora,Colorado,accessories,hat,Blue,15.99,3,12/21/2025,12/22/2025
+131.0,339.0,32,Sacramento,California,clothing,t-shirt,Black,17.99,1,2/3/2025,2/9/2025
+612.0,908.0,64,Sacramento,California,clothing,socks,White,11.99,3,8/21/2025,8/28/2025
+248.0,870.0,47,Seattle,Washington,clothing,shorts,Gray,23.99,3,9/21/2025,9/27/2025
+91.0,752.0,29,Hayward,California,clothing,socks,White,11.99,4,8/3/2025,8/8/2025
+423.0,939.0,61,Sacramento,California,outerwear,hoodie,Black,45.99,2,3/20/2025,3/25/2025
+148.0,194.0,45,Glendale,California,accessories,backpack,Black,39.99,2,1/31/2025,2/6/2025
+456.0,521.0,35,Los Angeles,California,clothing,shirt,Beige,25.99,3,11/19/2025,11/22/2025
+330.0,660.0,21,Portland,Oregon,clothing,sweater,Navy,33.99,1,7/10/2025,7/11/2025
+851.0,118.0,26,San Francisco,California,clothing,pants,Blue,37.99,2,8/8/2025,8/14/2025
+15.0,774.0,34,San Jose,California,clothing,socks,White,11.99,2,3/15/2025,3/21/2025
+76.0,7.0,29,Minneapolis,Minnesota,clothing,sweater,Blue,33.99,1,6/2/2025,6/5/2025
+249.0,803.0,46,Denver,Colorado,clothing,shorts,Beige,23.99,3,11/15/2025,11/21/2025
+185.0,,28,Long Beach,California,clothing,t-shirt,Black,17.99,2,3/31/2025,4/7/2025
+817.0,328.0,42,Rochester,Minnesota,clothing,t-shirt,Black,17.99,1,6/20/2025,6/25/2025
+732.0,910.0,24,Colorado Springs,Colorado,outerwear,jacket,Navy,59.99,2,12/5/2025,12/12/2025
+907.0,819.0,45,Colorado Springs,Colorado,clothing,sweater,Gray,33.99,1,9/19/2025,9/26/2025
+214.0,199.0,27,Oakland,California,clothing,sweater,Black,33.99,7,3/24/2025,3/25/2025
+346.0,702.0,20,San Diego,California,clothing,socks,White,11.99,1,2/5/2025,2/10/2025
+8.0,,44,Berkeley,California,accessories,hat,Gray,15.99,1,10/29/2025,11/4/2025
+233.0,613.0,53,Salem,Oregon,accessories,backpack,Black,39.99,1,5/6/2025,5/10/2025
+363.0,15.0,59,Denver,Colorado,outerwear,hoodie,Blue,45.99,1,1/25/2025,1/26/2025
+602.0,501.0,42,Portland,Oregon,outerwear,hoodie,Black,45.99,2,5/4/2025,5/9/2025
+743.0,532.0,35,Saginaw,Michigan,outerwear,hoodie,Gray,45.99,1,6/4/2025,6/8/2025
+518.0,515.0,46,Tacoma,Washington,outerwear,hoodie,Gray,45.99,2,12/6/2025,12/11/2025
+883.0,575.0,39,Denver,Colorado,clothing,sweater,Gray,33.99,2,9/5/2025,9/12/2025
+90.0,461.0,30,Sacramento,California,outerwear,jacket,Black,59.99,2,5/12/2025,5/13/2025
+424.0,489.0,40,Saint Paul,Minnesota,clothing,shirt,White,25.99,2,9/11/2025,9/18/2025
+437.0,723.0,48,Stockton,California,clothing,sweater,Navy,33.99,1,7/26/2025,7/31/2025
+591.0,391.0,61,Oakland,California,clothing,sweater,Gray,33.99,3,4/16/2025,4/22/2025
+975.0,130.0,53,Pueblo,Colorado,clothing,shirt,White,25.99,1,3/31/2025,4/4/2025
+476.0,24.0,24,Saint Paul,Minnesota,clothing,shirt,White,25.99,2,2/18/2025,2/23/2025
+198.0,725.0,28,Sacramento,California,clothing,t-shirt,Black,17.99,2,1/20/2025,1/24/2025
+266.0,304.0,22,Portland,Oregon,outerwear,hoodie,Navy,45.99,1,11/15/2025,11/16/2025
+20.0,349.0,20,San Jose,California,outerwear,hoodie,Navy,45.99,5,5/7/2025,5/14/2025
+291.0,930.0,37,Petaluma,California,clothing,t-shirt,White,17.99,1,12/11/2025,12/13/2025
+254.0,930.0,37,Petaluma,California,clothing,t-shirt,White,17.99,3,5/16/2025,5/21/2025
+24.0,330.0,34,Aurora,Colorado,clothing,t-shirt,Gray,17.99,2,4/22/2025,4/27/2025
+147.0,82.0,51,Denver,Colorado,outerwear,hoodie,Blue,45.99,1,2/22/2025,2/27/2025
+443.0,546.0,35,Seattle,Washington,clothing,t-shirt,Black,17.99,2,1/24/2025,1/30/2025
+388.0,846.0,44,Long Beach,California,clothing,socks,White,11.99,2,3/14/2025,3/21/2025
+862.0,31.0,39,Moreno Valley,California,clothing,socks,Black,11.99,2,10/20/2025,10/23/2025
+747.0,402.0,41,Milwaukee,Wisconsin,clothing,socks,White,11.99,3,7/21/2025,7/22/2025
+613.0,794.0,41,Young America,Minnesota,outerwear,jacket,Navy,59.99,2,10/25/2025,10/27/2025
+829.0,497.0,40,Seattle,Washington,clothing,sweater,Black,33.99,3,1/7/2025,1/13/2025
+930.0,251.0,18,Santa Monica,California,accessories,backpack,Black,39.99,2,12/26/2025,1/1/2026
+402.0,472.0,21,Saint Cloud,Minnesota,clothing,pants,Black,37.99,1,6/8/2025,6/10/2025
+247.0,17.0,31,Saint Paul,Minnesota,outerwear,hoodie,Black,45.99,3,10/31/2025,11/4/2025
+379.0,426.0,26,Fullerton,California,outerwear,hoodie,Navy,45.99,2,3/11/2025,3/14/2025
+308.0,378.0,28,Concord,California,clothing,sweater,Navy,33.99,2,4/1/2025,4/5/2025
+443.0,241.0,48,Los Angeles,California,clothing,shirt,Beige,25.99,1,9/10/2025,9/13/2025
+419.0,802.0,18,Grand Rapids,Michigan,clothing,socks,Gray,11.99,1,4/26/2025,4/28/2025
+21.0,524.0,32,Seattle,Washington,outerwear,hoodie,Navy,45.99,2,4/11/2025,4/17/2025
+149.0,780.0,22,Mountain View,California,clothing,socks,Black,11.99,2,6/16/2025,6/23/2025
+511.0,800.0,21,Dearborn,Michigan,clothing,socks,White,11.99,5,1/26/2025,1/29/2025
+724.0,653.0,29,Spokane,Washington,accessories,hat,Black,15.99,1,4/17/2025,4/18/2025
+475.0,418.0,32,San Bernardino,California,accessories,hat,Blue,15.99,5,2/26/2025,2/27/2025
+355.0,377.0,51,San Diego,California,clothing,t-shirt,White,17.99,1,12/17/2025,12/24/2025
+,775.0,35,Young America,Minnesota,clothing,pants,Navy,37.99,1,3/4/2025,3/10/2025
+624.0,663.0,28,Irvine,California,clothing,socks,Black,11.99,2,12/30/2025,1/4/2026
+954.0,,39,Sacramento,California,clothing,t-shirt,Black,17.99,1,6/13/2025,6/14/2025
+45.0,80.0,55,Colorado Springs,Colorado,clothing,socks,Black,11.99,1,2/7/2025,2/9/2025
+671.0,734.0,29,Northridge,California,clothing,shorts,Black,23.99,2,10/8/2025,10/11/2025
+401.0,783.0,22,Sacramento,California,accessories,hat,Gray,15.99,1,7/25/2025,7/31/2025
+928.0,804.0,19,Denver,Colorado,clothing,socks,Gray,11.99,1,11/21/2025,11/26/2025
+183.0,,33,Englewood,Colorado,clothing,t-shirt,White,17.99,1,5/16/2025,5/17/2025
+145.0,515.0,46,Tacoma,Washington,outerwear,hoodie,Black,45.99,1,9/23/2025,9/29/2025
+391.0,491.0,65,Detroit,Michigan,clothing,t-shirt,Gray,17.99,1,1/1/2025,1/6/2025
+458.0,588.0,28,Los Angeles,California,outerwear,hoodie,Black,45.99,1,12/2/2025,12/6/2025
+406.0,,37,San Jose,California,outerwear,jacket,Navy,59.99,1,11/12/2025,11/15/2025
+878.0,525.0,29,Saint Paul,Minnesota,clothing,sweater,Navy,33.99,2,11/23/2025,11/29/2025
+232.0,103.0,50,Detroit,Michigan,clothing,socks,White,11.99,3,9/11/2025,9/15/2025
+488.0,504.0,25,Grand Rapids,Michigan,clothing,sweater,Navy,33.99,1,3/26/2025,4/2/2025
+115.0,662.0,40,San Francisco,California,accessories,backpack,Navy,39.99,1,4/29/2025,4/30/2025
+43.0,982.0,55,Santa Monica,California,clothing,t-shirt,Black,17.99,1,7/28/2025,7/29/2025
+959.0,235.0,37,Stockton,California,clothing,t-shirt,Navy,17.99,2,1/23/2025,1/28/2025
+225.0,491.0,65,Detroit,Michigan,clothing,t-shirt,White,17.99,5,1/8/2025,1/13/2025
+627.0,613.0,53,Salem,Oregon,accessories,backpack,Black,39.99,2,3/28/2025,3/31/2025
+539.0,105.0,30,Irvine,California,clothing,socks,White,11.99,1,11/20/2025,11/23/2025
+730.0,246.0,41,Sacramento,California,clothing,sweater,Gray,33.99,3,5/17/2025,5/21/2025
+809.0,175.0,52,San Diego,California,outerwear,jacket,Navy,59.99,1,4/9/2025,4/12/2025
+555.0,54.0,49,Detroit,Michigan,accessories,hat,Blue,15.99,1,1/12/2025,1/14/2025
+779.0,845.0,32,Sacramento,California,clothing,shorts,Black,23.99,3,9/18/2025,9/22/2025
+433.0,529.0,33,Seattle,Washington,clothing,socks,Black,11.99,1,6/28/2025,7/3/2025
+969.0,294.0,50,San Jose,California,outerwear,hoodie,Black,45.99,1,11/18/2025,11/19/2025
+150.0,686.0,55,San Bernardino,California,outerwear,jacket,Blue,59.99,3,7/23/2025,7/30/2025
+658.0,97.0,36,Modesto,California,clothing,socks,White,11.99,1,11/23/2025,11/24/2025
+459.0,485.0,36,San Francisco,California,clothing,socks,Black,11.99,1,6/10/2025,6/17/2025
+594.0,854.0,45,Bakersfield,California,clothing,t-shirt,White,17.99,2,1/13/2025,1/19/2025
+488.0,949.0,43,Madison,Wisconsin,clothing,t-shirt,White,17.99,4,6/16/2025,6/19/2025
+735.0,18.0,26,Bakersfield,California,outerwear,hoodie,Black,45.99,3,10/2/2025,10/5/2025
+492.0,41.0,30,Glendale,California,clothing,socks,White,11.99,1,1/19/2025,1/21/2025
+255.0,889.0,19,Minneapolis,Minnesota,clothing,socks,White,11.99,1,,
+93.0,122.0,42,San Francisco,California,outerwear,hoodie,Black,45.99,3,11/20/2025,11/27/2025
+851.0,580.0,52,Salem,Oregon,accessories,backpack,Navy,39.99,3,1/18/2025,1/24/2025
+808.0,523.0,29,Minneapolis,Minnesota,clothing,t-shirt,White,17.99,2,1/10/2025,1/17/2025
+735.0,258.0,53,Denver,Colorado,clothing,socks,White,11.99,1,9/5/2025,9/7/2025
+342.0,153.0,49,Denver,Colorado,clothing,t-shirt,White,17.99,4,7/9/2025,7/16/2025
+977.0,157.0,53,Milwaukee,Wisconsin,clothing,t-shirt,Black,17.99,2,6/6/2025,6/11/2025
+481.0,462.0,31,Santa Barbara,California,accessories,backpack,Black,39.99,1,6/9/2025,6/16/2025
+428.0,766.0,24,Vancouver,Washington,clothing,shorts,Navy,23.99,1,4/9/2025,4/12/2025
+901.0,447.0,50,Denver,Colorado,accessories,hat,Gray,15.99,4,1/18/2025,1/25/2025
+398.0,60.0,37,Vancouver,Washington,outerwear,hoodie,White,45.99,1,6/16/2025,6/19/2025
+772.0,836.0,31,Colorado Springs,Colorado,accessories,hat,Black,15.99,6,4/6/2025,4/9/2025
+892.0,913.0,39,Battle Creek,Michigan,clothing,t-shirt,White,17.99,1,10/8/2025,10/13/2025
+199.0,466.0,24,Portland,Oregon,clothing,shirt,Black,25.99,1,9/4/2025,9/6/2025
+1.0,,49,Los Angeles,California,clothing,sweater,Navy,33.99,1,4/6/2025,4/10/2025
+94.0,929.0,30,Bakersfield,California,clothing,t-shirt,White,17.99,1,12/12/2025,12/15/2025
+,764.0,39,Sacramento,California,clothing,sweater,Gray,33.99,3,10/27/2025,11/3/2025
+757.0,532.0,35,Saginaw,Michigan,clothing,shirt,Black,25.99,1,6/10/2025,6/14/2025
+604.0,498.0,31,Saginaw,Michigan,clothing,t-shirt,Black,17.99,1,2/11/2025,2/13/2025
+906.0,627.0,49,Saint Paul,Minnesota,clothing,socks,Gray,11.99,1,4/4/2025,4/8/2025
+718.0,69.0,30,Lansing,Michigan,outerwear,hoodie,Gray,45.99,1,9/22/2025,9/27/2025
+196.0,503.0,35,Madison,Wisconsin,clothing,shirt,White,25.99,1,4/5/2025,4/7/2025
+28.0,335.0,24,Lansing,Michigan,clothing,shirt,White,25.99,1,8/31/2025,9/3/2025
+18.0,132.0,55,Oxnard,California,outerwear,hoodie,Gray,45.99,1,10/9/2025,10/14/2025
+579.0,44.0,27,Stockton,California,clothing,shorts,Blue,23.99,1,4/16/2025,4/22/2025
+544.0,339.0,32,Sacramento,California,clothing,shirt,Gray,25.99,2,4/10/2025,4/16/2025
+67.0,865.0,52,North Hollywood,California,clothing,socks,White,11.99,1,4/11/2025,4/16/2025
+273.0,936.0,23,Madison,Wisconsin,clothing,shirt,Beige,25.99,2,1/16/2025,1/21/2025
+192.0,828.0,57,Sacramento,California,outerwear,hoodie,Gray,45.99,4,6/22/2025,6/26/2025
+551.0,923.0,47,Saint Paul,Minnesota,clothing,t-shirt,White,17.99,1,12/29/2025,12/30/2025
+777.0,752.0,29,Hayward,California,outerwear,jacket,Black,59.99,1,3/4/2025,3/7/2025
+101.0,244.0,35,Irvine,California,clothing,t-shirt,Black,17.99,1,4/16/2025,4/23/2025
+109.0,888.0,28,Chico,California,clothing,shirt,Navy,25.99,3,6/24/2025,6/29/2025
+434.0,704.0,27,Modesto,California,outerwear,jacket,White,59.99,1,12/9/2025,12/16/2025
+434.0,459.0,59,Fullerton,California,clothing,socks,White,11.99,1,2/19/2025,2/25/2025
+329.0,979.0,40,Detroit,Michigan,clothing,t-shirt,White,17.99,2,12/13/2025,12/15/2025
+643.0,274.0,48,Colorado Springs,Colorado,clothing,shirt,Gray,25.99,3,1/30/2025,2/3/2025
+887.0,831.0,33,Pasadena,California,clothing,shirt,Beige,25.99,3,8/8/2025,8/12/2025
+587.0,881.0,28,Chula Vista,California,outerwear,jacket,Black,59.99,3,5/1/2025,5/7/2025
+23.0,513.0,39,Madison,Wisconsin,outerwear,jacket,Black,59.99,4,4/1/2025,4/3/2025
+262.0,441.0,39,Los Angeles,California,clothing,pants,Gray,37.99,1,2/17/2025,2/22/2025
+790.0,313.0,61,Portland,Oregon,outerwear,hoodie,Gray,45.99,3,6/10/2025,6/13/2025
+641.0,601.0,61,Aurora,Colorado,clothing,shorts,Gray,23.99,2,9/27/2025,10/4/2025
+355.0,827.0,49,Seattle,Washington,clothing,t-shirt,White,17.99,1,9/27/2025,10/3/2025
+170.0,802.0,18,Grand Rapids,Michigan,clothing,shirt,Black,25.99,4,11/30/2025,12/1/2025
+573.0,772.0,42,Portland,Oregon,accessories,hat,Gray,15.99,1,9/29/2025,10/4/2025
+830.0,240.0,45,Loretto,Minnesota,outerwear,hoodie,Black,45.99,1,8/4/2025,8/8/2025
+280.0,466.0,24,Portland,Oregon,outerwear,hoodie,Gray,45.99,1,6/1/2025,6/7/2025
+683.0,985.0,47,Sacramento,California,clothing,shirt,Gray,25.99,3,8/18/2025,8/20/2025
+,419.0,42,Greeley,Colorado,clothing,socks,Gray,11.99,3,,
+440.0,762.0,19,Minneapolis,Minnesota,outerwear,hoodie,Black,45.99,2,12/25/2025,12/29/2025
+697.0,181.0,37,Santa Monica,California,clothing,shirt,White,25.99,4,11/5/2025,11/9/2025
+908.0,392.0,36,Colorado Springs,Colorado,accessories,backpack,White,39.99,1,3/17/2025,3/23/2025
+318.0,39.0,29,North Hollywood,California,accessories,hat,Blue,15.99,4,2/19/2025,2/20/2025
+303.0,635.0,33,Bakersfield,California,clothing,t-shirt,White,17.99,1,7/20/2025,7/22/2025
+390.0,553.0,31,Los Angeles,California,outerwear,jacket,Black,59.99,4,6/25/2025,6/27/2025
+,302.0,57,Midland,Michigan,outerwear,jacket,Gray,59.99,2,11/26/2025,11/29/2025
+297.0,351.0,58,Portland,Oregon,outerwear,jacket,Navy,59.99,3,11/8/2025,11/9/2025
+59.0,640.0,22,Madison,Wisconsin,outerwear,hoodie,Black,45.99,2,7/14/2025,7/18/2025
+963.0,65.0,31,Boise,Idaho,accessories,backpack,Navy,39.99,2,4/6/2025,4/7/2025
+,654.0,21,Los Angeles,California,clothing,shorts,Navy,23.99,1,7/17/2025,7/18/2025
+121.0,803.0,46,Denver,Colorado,clothing,pants,Black,37.99,1,4/26/2025,4/28/2025
+196.0,460.0,60,Anaheim,California,outerwear,hoodie,Black,45.99,1,9/22/2025,9/28/2025
+650.0,902.0,19,Denver,Colorado,outerwear,hoodie,Navy,45.99,2,7/2/2025,7/3/2025
+149.0,658.0,22,Fullerton,California,accessories,hat,Navy,15.99,3,1/19/2025,1/20/2025
+474.0,722.0,29,Seattle,Washington,outerwear,hoodie,Gray,45.99,1,11/20/2025,11/23/2025
+245.0,868.0,19,Hayward,California,outerwear,jacket,Black,59.99,1,4/4/2025,4/9/2025
+595.0,30.0,40,Mountain View,California,accessories,hat,Navy,15.99,3,10/7/2025,10/13/2025
+301.0,620.0,63,Detroit,Michigan,outerwear,hoodie,Navy,45.99,1,8/20/2025,8/24/2025
+533.0,290.0,44,Eugene,Oregon,clothing,sweater,Gray,33.99,2,6/9/2025,6/13/2025
+942.0,770.0,33,Minneapolis,Minnesota,clothing,socks,White,11.99,1,8/18/2025,8/21/2025
+814.0,554.0,35,San Francisco,California,outerwear,hoodie,Black,45.99,2,4/21/2025,4/26/2025
+795.0,153.0,49,Denver,Colorado,clothing,shirt,Black,25.99,4,5/6/2025,5/11/2025
+339.0,122.0,42,San Francisco,California,clothing,t-shirt,Black,17.99,1,5/2/2025,5/3/2025
+78.0,839.0,63,Stockton,California,clothing,shirt,White,25.99,2,10/25/2025,10/28/2025
+217.0,46.0,24,Tacoma,Washington,clothing,t-shirt,White,17.99,1,,
+159.0,379.0,37,Greeley,Colorado,clothing,t-shirt,Black,17.99,1,8/23/2025,8/30/2025
+782.0,692.0,38,Berkeley,California,outerwear,hoodie,Navy,45.99,1,1/23/2025,1/24/2025
+517.0,816.0,33,Oakland,California,clothing,shirt,Gray,25.99,2,12/26/2025,12/27/2025
+974.0,157.0,53,Milwaukee,Wisconsin,accessories,hat,Blue,15.99,1,8/2/2025,8/4/2025
+77.0,560.0,35,Sacramento,California,clothing,socks,Black,11.99,6,3/30/2025,4/1/2025
+105.0,207.0,37,Tacoma,Washington,clothing,t-shirt,White,17.99,2,3/28/2025,4/1/2025
+4.0,707.0,32,Irvine,California,clothing,t-shirt,Black,17.99,2,7/14/2025,7/16/2025
+231.0,602.0,49,Riverside,California,clothing,shirt,Navy,25.99,2,11/26/2025,11/28/2025
+50.0,418.0,32,San Bernardino,California,clothing,sweater,Gray,33.99,3,6/11/2025,6/12/2025
+210.0,325.0,19,Sacramento,California,clothing,shorts,Beige,23.99,2,1/31/2025,2/1/2025
+204.0,919.0,46,Farmington,Michigan,clothing,t-shirt,Black,17.99,2,12/3/2025,12/9/2025
+726.0,314.0,48,Kalamazoo,Michigan,accessories,backpack,White,39.99,1,11/19/2025,11/24/2025
+466.0,580.0,52,Salem,Oregon,clothing,pants,Beige,37.99,1,9/1/2025,9/2/2025
+870.0,242.0,48,Madison,Wisconsin,clothing,shorts,Black,23.99,1,11/5/2025,11/7/2025
+908.0,376.0,21,Los Angeles,California,outerwear,hoodie,Gray,45.99,1,9/26/2025,10/1/2025
+957.0,838.0,31,Eugene,Oregon,accessories,hat,Navy,15.99,3,1/24/2025,1/27/2025
+800.0,926.0,39,Colorado Springs,Colorado,clothing,sweater,Navy,33.99,2,1/29/2025,2/3/2025
+898.0,546.0,35,Seattle,Washington,clothing,sweater,Gray,33.99,1,5/5/2025,5/6/2025
+656.0,238.0,27,Pasadena,California,clothing,pants,Gray,37.99,2,4/28/2025,4/30/2025
+787.0,185.0,18,Bakersfield,California,clothing,socks,White,11.99,1,2/21/2025,2/24/2025
+628.0,106.0,52,Riverside,California,accessories,hat,Gray,15.99,1,10/10/2025,10/13/2025
+129.0,195.0,48,Los Angeles,California,outerwear,hoodie,White,45.99,2,5/1/2025,5/3/2025
+936.0,438.0,53,Tacoma,Washington,clothing,t-shirt,White,17.99,3,6/23/2025,6/25/2025
+800.0,863.0,18,Sacramento,California,clothing,socks,White,11.99,2,10/8/2025,10/15/2025
+693.0,235.0,37,Stockton,California,outerwear,hoodie,Gray,45.99,2,2/10/2025,2/13/2025
+174.0,110.0,24,Saint Paul,Minnesota,clothing,t-shirt,Black,17.99,1,12/8/2025,12/12/2025
+403.0,453.0,60,Sacramento,California,outerwear,hoodie,Navy,45.99,1,12/12/2025,12/19/2025
+912.0,766.0,24,Vancouver,Washington,clothing,sweater,Gray,33.99,1,4/9/2025,4/15/2025
+713.0,160.0,52,Detroit,Michigan,outerwear,hoodie,Beige,45.99,3,,
+,498.0,31,Saginaw,Michigan,clothing,socks,White,11.99,1,2/25/2025,3/3/2025
+540.0,15.0,59,Denver,Colorado,clothing,shirt,Gray,25.99,1,8/1/2025,8/7/2025
+671.0,614.0,53,San Diego,California,clothing,shirt,White,25.99,2,4/21/2025,4/26/2025
+638.0,367.0,40,Minneapolis,Minnesota,clothing,sweater,Navy,33.99,1,3/24/2025,3/31/2025
+135.0,614.0,53,San Diego,California,clothing,pants,Black,37.99,2,10/15/2025,10/19/2025
+516.0,742.0,54,Sacramento,California,clothing,shirt,Blue,25.99,2,3/13/2025,3/15/2025
+482.0,770.0,33,Minneapolis,Minnesota,outerwear,jacket,Blue,59.99,1,9/11/2025,9/17/2025
+70.0,285.0,31,San Diego,California,accessories,backpack,Black,39.99,4,6/14/2025,6/15/2025
+930.0,,28,Littleton,Colorado,outerwear,jacket,Black,59.99,2,1/18/2025,1/20/2025
+222.0,737.0,43,Tacoma,Washington,clothing,shorts,Gray,23.99,6,8/15/2025,8/19/2025
+655.0,669.0,20,Sacramento,California,clothing,shorts,Gray,23.99,2,12/6/2025,12/11/2025
+851.0,200.0,43,Tacoma,Washington,clothing,t-shirt,Black,17.99,1,8/20/2025,8/21/2025
+341.0,224.0,25,Pasadena,California,accessories,hat,Black,15.99,2,3/11/2025,3/18/2025
+69.0,261.0,19,San Bernardino,California,clothing,sweater,Navy,33.99,4,12/2/2025,12/9/2025
+958.0,720.0,65,Torrance,California,clothing,shirt,Gray,25.99,1,10/28/2025,11/4/2025
+904.0,207.0,37,Tacoma,Washington,accessories,hat,Black,15.99,1,7/12/2025,7/14/2025
+703.0,372.0,60,Orange,California,clothing,sweater,Black,33.99,2,3/26/2025,3/27/2025
+66.0,501.0,42,Portland,Oregon,outerwear,hoodie,Navy,45.99,4,2/21/2025,2/25/2025
+774.0,605.0,22,Duluth,Minnesota,clothing,t-shirt,Black,17.99,2,7/5/2025,7/9/2025
+461.0,342.0,42,Madison,Wisconsin,accessories,backpack,Navy,39.99,2,10/8/2025,10/11/2025
+495.0,358.0,24,Green Bay,Wisconsin,clothing,t-shirt,White,17.99,3,4/25/2025,4/29/2025
+433.0,409.0,39,Seattle,Washington,clothing,sweater,Gray,33.99,3,4/20/2025,4/21/2025
+796.0,718.0,30,San Francisco,California,clothing,sweater,Gray,33.99,1,9/20/2025,9/27/2025
+975.0,565.0,33,North Hollywood,California,clothing,socks,White,11.99,1,1/16/2025,1/23/2025
+,151.0,42,North Hollywood,California,outerwear,hoodie,Black,45.99,1,7/24/2025,7/26/2025
+121.0,487.0,45,Minneapolis,Minnesota,clothing,shirt,White,25.99,7,2/20/2025,2/24/2025
+394.0,898.0,48,Sacramento,California,accessories,hat,Black,15.99,1,1/7/2025,1/13/2025
+574.0,209.0,57,Colorado Springs,Colorado,clothing,sweater,Black,33.99,2,5/5/2025,5/6/2025
+871.0,746.0,48,Saint Paul,Minnesota,outerwear,hoodie,Black,45.99,1,12/29/2025,12/30/2025
+526.0,626.0,27,Flint,Michigan,outerwear,hoodie,Black,45.99,1,7/28/2025,8/3/2025
+775.0,641.0,27,Colorado Springs,Colorado,clothing,shirt,Navy,25.99,2,4/20/2025,4/26/2025
+345.0,948.0,23,North Hollywood,California,accessories,backpack,Black,39.99,3,,
+507.0,948.0,23,North Hollywood,California,clothing,socks,White,11.99,2,11/2/2025,11/6/2025
+862.0,944.0,37,Spokane,Washington,outerwear,hoodie,Navy,45.99,1,11/23/2025,11/26/2025
+233.0,548.0,43,Santa Barbara,California,outerwear,hoodie,Black,45.99,4,8/6/2025,8/12/2025
+576.0,731.0,44,San Bernardino,California,clothing,socks,White,11.99,2,10/6/2025,10/13/2025
+460.0,932.0,65,Sacramento,California,outerwear,hoodie,Navy,45.99,1,1/13/2025,1/15/2025
+62.0,361.0,36,San Diego,California,accessories,backpack,Black,39.99,4,7/12/2025,7/17/2025
+884.0,597.0,44,Sacramento,California,clothing,t-shirt,Black,17.99,1,3/8/2025,3/12/2025
+553.0,120.0,46,Los Angeles,California,clothing,socks,White,11.99,1,4/22/2025,4/29/2025
+942.0,856.0,30,Bakersfield,California,outerwear,hoodie,Gray,45.99,1,6/29/2025,7/4/2025
+17.0,,65,Torrance,California,clothing,shirt,Gray,25.99,1,1/2/2025,1/9/2025
+282.0,487.0,45,Minneapolis,Minnesota,outerwear,hoodie,Blue,45.99,1,1/28/2025,1/30/2025
+943.0,437.0,61,Grand Rapids,Michigan,clothing,sweater,Gray,33.99,1,12/28/2025,1/2/2026
+881.0,29.0,27,Seattle,Washington,clothing,shirt,White,25.99,1,1/23/2025,1/25/2025
+474.0,374.0,45,Colorado Springs,Colorado,accessories,backpack,Black,39.99,3,7/28/2025,8/3/2025
+439.0,136.0,65,Sacramento,California,clothing,sweater,Black,33.99,1,11/30/2025,12/5/2025
+945.0,832.0,38,Minneapolis,Minnesota,clothing,t-shirt,Black,17.99,3,11/1/2025,11/2/2025
+178.0,689.0,43,Grand Rapids,Michigan,outerwear,jacket,Black,59.99,4,5/12/2025,5/14/2025
+347.0,240.0,45,Loretto,Minnesota,accessories,backpack,Black,39.99,1,7/26/2025,8/1/2025
+621.0,529.0,33,Seattle,Washington,outerwear,jacket,Navy,59.99,1,9/16/2025,9/18/2025
+905.0,744.0,23,North Hollywood,California,clothing,t-shirt,White,17.99,1,2/2/2025,2/4/2025
+293.0,624.0,25,Portland,Oregon,outerwear,jacket,Navy,59.99,2,6/21/2025,6/28/2025
+296.0,608.0,48,Detroit,Michigan,outerwear,jacket,Black,59.99,2,12/6/2025,12/11/2025
+131.0,554.0,35,San Francisco,California,clothing,socks,White,11.99,4,4/19/2025,4/21/2025
+384.0,505.0,29,Tacoma,Washington,clothing,sweater,Gray,33.99,4,2/13/2025,2/14/2025
+190.0,711.0,26,Denver,Colorado,clothing,shirt,Gray,25.99,2,10/8/2025,10/10/2025
+462.0,347.0,22,Santa Monica,California,clothing,sweater,Blue,33.99,2,3/16/2025,3/23/2025
+380.0,460.0,60,Anaheim,California,clothing,pants,Blue,37.99,2,6/6/2025,6/9/2025
+821.0,986.0,46,Seattle,Washington,clothing,pants,Black,37.99,1,5/31/2025,6/4/2025
+643.0,362.0,26,San Diego,California,clothing,t-shirt,Black,17.99,3,6/3/2025,6/4/2025
+712.0,915.0,19,Bakersfield,California,clothing,shorts,Beige,23.99,2,11/17/2025,11/22/2025
+936.0,440.0,23,Colorado Springs,Colorado,outerwear,hoodie,Black,45.99,1,12/25/2025,12/27/2025
+418.0,686.0,55,San Bernardino,California,clothing,t-shirt,White,17.99,1,7/23/2025,7/25/2025
+527.0,295.0,25,Torrance,California,clothing,sweater,Gray,33.99,1,1/19/2025,1/24/2025
+603.0,670.0,53,Denver,Colorado,accessories,backpack,Black,39.99,2,9/10/2025,9/12/2025
+900.0,867.0,34,Saint Paul,Minnesota,accessories,backpack,Black,39.99,3,3/14/2025,3/15/2025
+151.0,364.0,34,Monticello,Minnesota,clothing,t-shirt,White,17.99,2,3/15/2025,3/16/2025
+853.0,83.0,33,Pueblo,Colorado,clothing,shirt,Beige,25.99,1,5/30/2025,6/1/2025
+715.0,39.0,29,North Hollywood,California,clothing,shirt,White,25.99,3,3/19/2025,3/25/2025
+92.0,631.0,54,Modesto,California,clothing,socks,White,11.99,1,7/16/2025,7/21/2025
+168.0,697.0,35,Duluth,Minnesota,clothing,socks,White,11.99,1,10/26/2025,10/28/2025
+879.0,934.0,62,Bakersfield,California,clothing,socks,Gray,11.99,2,5/22/2025,5/24/2025
+763.0,363.0,34,South Lake Tahoe,California,outerwear,hoodie,Gray,45.99,1,6/2/2025,6/5/2025
+790.0,678.0,22,Saint Paul,Minnesota,clothing,shirt,White,25.99,2,6/17/2025,6/20/2025
+259.0,524.0,32,Seattle,Washington,clothing,t-shirt,Black,17.99,1,5/7/2025,5/11/2025
+217.0,776.0,34,Modesto,California,accessories,hat,Navy,15.99,7,11/22/2025,11/23/2025
+817.0,613.0,53,Salem,Oregon,outerwear,hoodie,Navy,45.99,1,2/12/2025,2/13/2025
+555.0,120.0,46,Los Angeles,California,clothing,socks,White,11.99,3,8/9/2025,8/15/2025
+681.0,189.0,36,Riverside,California,clothing,sweater,Black,33.99,2,1/5/2025,1/8/2025
+561.0,838.0,31,Eugene,Oregon,accessories,backpack,White,39.99,3,,
+167.0,756.0,27,Oakland,California,clothing,sweater,Gray,33.99,2,10/21/2025,10/24/2025
+31.0,781.0,59,San Diego,California,outerwear,hoodie,Navy,45.99,1,10/19/2025,10/24/2025
+711.0,884.0,53,Colorado Springs,Colorado,clothing,socks,White,11.99,1,11/23/2025,11/29/2025
+928.0,310.0,34,Los Angeles,California,clothing,shirt,Gray,25.99,1,10/8/2025,10/12/2025
+504.0,191.0,18,Portland,Oregon,outerwear,hoodie,Gray,45.99,2,6/21/2025,6/25/2025
+772.0,760.0,37,Fresno,California,clothing,shorts,Navy,23.99,1,11/27/2025,12/1/2025
+586.0,88.0,20,Boise,Idaho,clothing,t-shirt,Black,17.99,3,11/25/2025,12/1/2025
+385.0,523.0,29,Minneapolis,Minnesota,outerwear,jacket,Black,59.99,2,10/12/2025,10/16/2025
+365.0,471.0,41,Young America,Minnesota,clothing,sweater,Gray,33.99,2,2/17/2025,2/19/2025
+713.0,745.0,42,Minneapolis,Minnesota,clothing,t-shirt,White,17.99,1,3/12/2025,3/14/2025
+414.0,26.0,32,Ventura,California,clothing,t-shirt,Black,17.99,6,5/25/2025,5/30/2025
+439.0,593.0,19,Oxnard,California,outerwear,hoodie,Black,45.99,3,11/20/2025,11/24/2025
+553.0,554.0,35,San Francisco,California,outerwear,hoodie,Blue,45.99,1,8/17/2025,8/18/2025
+433.0,417.0,18,Boise,Idaho,outerwear,hoodie,Navy,45.99,1,3/13/2025,3/14/2025
+198.0,823.0,27,Los Angeles,California,clothing,t-shirt,Gray,17.99,1,7/16/2025,7/19/2025
+934.0,874.0,39,Sacramento,California,outerwear,hoodie,Black,45.99,1,12/4/2025,12/11/2025
+679.0,748.0,34,Minneapolis,Minnesota,outerwear,jacket,Gray,59.99,4,6/11/2025,6/13/2025
+565.0,378.0,28,Concord,California,clothing,socks,White,11.99,3,7/13/2025,7/14/2025
+797.0,583.0,24,San Rafael,California,clothing,shirt,Navy,25.99,2,12/14/2025,12/18/2025
+982.0,85.0,44,Pueblo,Colorado,clothing,sweater,Navy,33.99,3,9/3/2025,9/8/2025
+495.0,241.0,48,Los Angeles,California,clothing,t-shirt,White,17.99,1,9/17/2025,9/21/2025
+135.0,538.0,40,Denver,Colorado,clothing,t-shirt,White,17.99,1,9/13/2025,9/16/2025
+946.0,439.0,36,San Diego,California,clothing,shirt,Gray,25.99,1,12/20/2025,12/21/2025
+514.0,252.0,49,Fresno,California,accessories,hat,Navy,15.99,1,7/23/2025,7/28/2025
+980.0,273.0,29,Minneapolis,Minnesota,outerwear,jacket,Black,59.99,3,6/1/2025,6/4/2025
+712.0,971.0,45,Bakersfield,California,clothing,t-shirt,Black,17.99,2,8/19/2025,8/26/2025
+493.0,394.0,35,San Francisco,California,clothing,sweater,Navy,33.99,1,1/11/2025,1/13/2025
+483.0,911.0,26,Duluth,Minnesota,clothing,sweater,Navy,33.99,1,8/21/2025,8/27/2025
+645.0,237.0,61,San Francisco,California,clothing,t-shirt,Black,17.99,1,5/2/2025,5/4/2025
+331.0,722.0,29,Seattle,Washington,accessories,hat,Navy,15.99,1,2/19/2025,2/22/2025
+531.0,774.0,34,San Jose,California,outerwear,hoodie,Black,45.99,1,8/3/2025,8/7/2025
+171.0,918.0,34,San Francisco,California,clothing,sweater,Black,33.99,3,11/20/2025,11/23/2025
+89.0,376.0,21,Los Angeles,California,clothing,t-shirt,White,17.99,3,12/17/2025,12/24/2025
+253.0,573.0,46,Troy,Michigan,outerwear,hoodie,Navy,45.99,1,6/7/2025,6/8/2025
+142.0,776.0,34,Modesto,California,accessories,backpack,Navy,39.99,2,7/30/2025,8/4/2025
+78.0,216.0,48,Irvine,California,outerwear,jacket,Black,59.99,1,11/15/2025,11/22/2025
+220.0,208.0,28,San Jose,California,clothing,sweater,Blue,33.99,2,10/18/2025,10/25/2025
+985.0,261.0,19,San Bernardino,California,outerwear,jacket,Navy,59.99,1,8/27/2025,9/1/2025
+797.0,75.0,20,Spokane,Washington,accessories,backpack,Black,39.99,5,5/18/2025,5/19/2025
+326.0,379.0,37,Greeley,Colorado,accessories,hat,Black,15.99,1,7/10/2025,7/11/2025
+944.0,357.0,47,Seattle,Washington,clothing,sweater,Black,33.99,1,6/11/2025,6/12/2025
+104.0,875.0,28,San Francisco,California,clothing,shirt,Black,25.99,4,2/23/2025,2/28/2025
+102.0,34.0,43,Newport Beach,California,outerwear,jacket,Navy,59.99,1,5/21/2025,5/23/2025
+629.0,624.0,25,Portland,Oregon,outerwear,jacket,Navy,59.99,1,7/8/2025,7/9/2025
+575.0,977.0,39,Corona,California,clothing,pants,Black,37.99,2,1/22/2025,1/24/2025
+,190.0,30,Palmdale,California,clothing,pants,Navy,37.99,2,2/7/2025,2/13/2025
+284.0,281.0,32,Minneapolis,Minnesota,clothing,socks,Black,11.99,4,9/18/2025,9/20/2025
+168.0,373.0,48,Oxnard,California,outerwear,hoodie,Gray,45.99,1,2/20/2025,2/27/2025
+344.0,265.0,32,San Bernardino,California,accessories,backpack,Navy,39.99,3,2/13/2025,2/16/2025
+528.0,853.0,37,Portland,Oregon,clothing,sweater,Navy,33.99,1,6/22/2025,6/27/2025
+2.0,618.0,52,Northridge,California,clothing,t-shirt,White,17.99,3,6/11/2025,6/18/2025
+90.0,545.0,41,Seattle,Washington,clothing,t-shirt,Black,17.99,4,3/18/2025,3/21/2025
+668.0,21.0,45,San Francisco,California,outerwear,hoodie,Black,45.99,1,3/18/2025,3/24/2025
+128.0,230.0,27,Colorado Springs,Colorado,accessories,hat,Gray,15.99,2,2/20/2025,2/27/2025
+727.0,547.0,32,Boise,Idaho,outerwear,hoodie,Gray,45.99,2,5/2/2025,5/3/2025
+171.0,833.0,20,San Bernardino,California,outerwear,jacket,Navy,59.99,2,5/26/2025,5/28/2025
+59.0,48.0,52,Littleton,Colorado,clothing,t-shirt,Black,17.99,1,5/20/2025,5/23/2025
+193.0,860.0,37,Lansing,Michigan,accessories,backpack,Black,39.99,2,5/9/2025,5/13/2025
+46.0,129.0,58,Sacramento,California,clothing,t-shirt,White,17.99,3,5/8/2025,5/13/2025
+358.0,54.0,49,Detroit,Michigan,clothing,shorts,Beige,23.99,1,9/26/2025,9/28/2025
+171.0,578.0,56,Colorado Springs,Colorado,outerwear,jacket,Black,59.99,1,4/1/2025,4/2/2025
+452.0,571.0,53,Olympia,Washington,clothing,t-shirt,Navy,17.99,4,9/30/2025,10/2/2025
+949.0,571.0,53,Olympia,Washington,clothing,t-shirt,Gray,17.99,1,10/17/2025,10/24/2025
+17.0,259.0,33,Long Beach,California,clothing,pants,Navy,37.99,2,1/1/2025,1/8/2025
+526.0,428.0,24,Los Angeles,California,clothing,t-shirt,Black,17.99,5,2/8/2025,2/15/2025
+278.0,173.0,32,Yakima,Washington,clothing,t-shirt,Navy,17.99,1,10/11/2025,10/12/2025
+837.0,740.0,25,Colorado Springs,Colorado,outerwear,hoodie,Navy,45.99,1,2/1/2025,2/8/2025
+469.0,468.0,23,San Diego,California,accessories,hat,Black,15.99,1,5/13/2025,5/19/2025
+34.0,91.0,25,Los Angeles,California,clothing,t-shirt,White,17.99,2,1/6/2025,1/7/2025
+516.0,314.0,48,Kalamazoo,Michigan,clothing,shirt,Navy,25.99,2,2/14/2025,2/21/2025
+241.0,289.0,27,Beaverton,Oregon,outerwear,jacket,Blue,59.99,2,12/14/2025,12/20/2025
+965.0,347.0,22,Santa Monica,California,clothing,sweater,Black,33.99,3,4/5/2025,4/11/2025
+79.0,718.0,30,San Francisco,California,clothing,shorts,Black,23.99,2,4/4/2025,4/9/2025
+321.0,283.0,19,Tacoma,Washington,clothing,socks,White,11.99,3,1/2/2025,1/4/2025
+803.0,512.0,64,Seattle,Washington,accessories,backpack,Black,39.99,1,3/28/2025,4/4/2025
+689.0,,33,Huntington Beach,California,clothing,t-shirt,Black,17.99,1,4/4/2025,4/7/2025
+,61.0,44,Los Angeles,California,clothing,socks,White,11.99,1,8/25/2025,8/28/2025
+695.0,391.0,61,Oakland,California,outerwear,hoodie,Black,45.99,3,4/16/2025,4/18/2025
+346.0,704.0,27,Modesto,California,clothing,sweater,Gray,33.99,1,12/8/2025,12/9/2025
+15.0,513.0,39,Madison,Wisconsin,clothing,pants,Blue,37.99,2,12/24/2025,12/28/2025
+924.0,166.0,38,Salem,Oregon,clothing,t-shirt,Black,17.99,1,11/20/2025,11/24/2025
+230.0,320.0,37,Young America,Minnesota,clothing,t-shirt,Gray,17.99,2,3/18/2025,3/20/2025
+353.0,524.0,32,Seattle,Washington,accessories,hat,Black,15.99,2,6/27/2025,6/30/2025
+108.0,265.0,32,San Bernardino,California,clothing,t-shirt,Black,17.99,3,7/4/2025,7/9/2025
+482.0,973.0,29,Tacoma,Washington,clothing,sweater,Navy,33.99,2,1/7/2025,1/10/2025
+382.0,75.0,20,Spokane,Washington,clothing,sweater,Navy,33.99,2,12/26/2025,12/30/2025
+59.0,118.0,26,San Francisco,California,clothing,socks,White,11.99,1,1/14/2025,1/18/2025
+777.0,589.0,57,Concord,California,clothing,shorts,Black,23.99,3,9/17/2025,9/19/2025
+808.0,903.0,20,Minneapolis,Minnesota,clothing,t-shirt,Navy,17.99,1,9/3/2025,9/9/2025
+464.0,415.0,43,Detroit,Michigan,clothing,socks,Black,11.99,2,12/12/2025,12/16/2025
+117.0,170.0,32,San Francisco,California,clothing,shorts,Blue,23.99,2,3/2/2025,3/6/2025
+59.0,874.0,39,Sacramento,California,outerwear,hoodie,Black,45.99,1,8/1/2025,8/5/2025
+799.0,191.0,18,Portland,Oregon,accessories,backpack,Black,39.99,1,5/31/2025,6/2/2025
+638.0,640.0,22,Madison,Wisconsin,clothing,socks,White,11.99,1,7/3/2025,7/7/2025
+937.0,786.0,32,Sacramento,California,clothing,shirt,White,25.99,1,6/21/2025,6/22/2025
+356.0,238.0,27,Pasadena,California,clothing,socks,White,11.99,1,8/17/2025,8/23/2025
+820.0,913.0,39,Battle Creek,Michigan,clothing,sweater,Navy,33.99,2,3/10/2025,3/11/2025
+661.0,925.0,32,Sacramento,California,clothing,socks,Black,11.99,1,9/21/2025,9/24/2025
+829.0,48.0,52,Littleton,Colorado,outerwear,hoodie,Navy,45.99,1,11/12/2025,11/19/2025
+240.0,785.0,60,Saint Cloud,Minnesota,accessories,backpack,Black,39.99,1,2/23/2025,3/2/2025
+463.0,229.0,35,Lansing,Michigan,clothing,socks,Black,11.99,4,4/1/2025,4/2/2025
+390.0,509.0,26,San Luis Obispo,California,clothing,shirt,Black,25.99,2,6/29/2025,7/6/2025
+911.0,871.0,43,Sacramento,California,clothing,sweater,Black,33.99,1,3/2/2025,3/6/2025
+639.0,735.0,38,Pasadena,California,accessories,hat,Navy,15.99,2,3/20/2025,3/24/2025
+715.0,808.0,35,Grand Junction,Colorado,outerwear,hoodie,White,45.99,1,11/19/2025,11/20/2025
+947.0,274.0,48,Colorado Springs,Colorado,clothing,t-shirt,Black,17.99,1,3/5/2025,3/6/2025
+692.0,146.0,49,Oakland,California,clothing,shirt,White,25.99,2,11/7/2025,11/10/2025
+55.0,779.0,36,Alhambra,California,clothing,sweater,Gray,33.99,2,7/27/2025,8/3/2025
+350.0,904.0,63,Portland,Oregon,clothing,t-shirt,Black,17.99,1,7/4/2025,7/7/2025
+891.0,464.0,46,Monticello,Minnesota,outerwear,jacket,Black,59.99,1,3/18/2025,3/25/2025
+359.0,142.0,50,Minneapolis,Minnesota,clothing,sweater,Black,33.99,1,6/29/2025,7/2/2025
+481.0,572.0,34,Boise,Idaho,accessories,backpack,Black,39.99,1,12/19/2025,12/21/2025
+431.0,750.0,19,Santa Barbara,California,accessories,hat,Beige,15.99,3,3/19/2025,3/26/2025
+391.0,315.0,52,Inglewood,California,accessories,backpack,Navy,39.99,3,10/27/2025,10/31/2025
+966.0,785.0,60,Saint Cloud,Minnesota,clothing,t-shirt,Black,17.99,4,1/27/2025,1/31/2025
+984.0,639.0,39,Midland,Michigan,clothing,sweater,Gray,33.99,1,10/11/2025,10/12/2025
+514.0,740.0,25,Colorado Springs,Colorado,outerwear,jacket,Black,59.99,1,12/2/2025,12/7/2025
+377.0,519.0,35,Riverside,California,clothing,socks,White,11.99,5,2/26/2025,2/28/2025
+270.0,799.0,24,Saint Paul,Minnesota,accessories,hat,Navy,15.99,3,3/19/2025,3/21/2025
+266.0,42.0,33,Monticello,Minnesota,clothing,t-shirt,Black,17.99,1,1/3/2025,1/4/2025
+30.0,574.0,38,Modesto,California,clothing,shorts,Beige,23.99,2,10/18/2025,10/24/2025
+912.0,309.0,46,Visalia,California,clothing,pants,Navy,37.99,1,4/23/2025,4/24/2025
+199.0,892.0,38,San Francisco,California,outerwear,hoodie,Gray,45.99,2,7/6/2025,7/13/2025
+186.0,589.0,57,Concord,California,clothing,t-shirt,Black,17.99,6,10/3/2025,10/9/2025
+663.0,724.0,36,Detroit,Michigan,clothing,shirt,Gray,25.99,1,7/5/2025,7/10/2025
+786.0,77.0,59,Sacramento,California,clothing,shorts,Beige,23.99,2,9/25/2025,9/29/2025
+36.0,443.0,44,Los Angeles,California,clothing,socks,White,11.99,1,10/18/2025,10/20/2025
+655.0,949.0,43,Madison,Wisconsin,accessories,backpack,White,39.99,2,3/5/2025,3/9/2025
+,901.0,44,Duluth,Minnesota,clothing,t-shirt,White,17.99,1,9/2/2025,9/3/2025
+797.0,656.0,44,Sacramento,California,clothing,shorts,Navy,23.99,2,6/15/2025,6/16/2025
+566.0,167.0,33,Fresno,California,clothing,sweater,Navy,33.99,4,7/29/2025,8/2/2025
+419.0,921.0,47,San Francisco,California,clothing,t-shirt,White,17.99,1,5/28/2025,6/1/2025
+925.0,823.0,27,Los Angeles,California,outerwear,hoodie,Black,45.99,1,8/5/2025,8/8/2025
+507.0,193.0,40,Colorado Springs,Colorado,clothing,t-shirt,Black,17.99,3,12/29/2025,12/30/2025
+878.0,568.0,59,San Francisco,California,accessories,hat,Black,15.99,2,4/21/2025,4/28/2025
+147.0,38.0,28,Rochester,Minnesota,outerwear,jacket,Navy,59.99,1,11/14/2025,11/21/2025
+236.0,446.0,28,Seattle,Washington,accessories,hat,Black,15.99,2,5/2/2025,5/7/2025
+310.0,410.0,19,Fullerton,California,accessories,hat,Black,15.99,1,5/13/2025,5/20/2025
+153.0,477.0,25,Flint,Michigan,outerwear,jacket,Black,59.99,1,11/5/2025,11/8/2025
+863.0,101.0,61,Milwaukee,Wisconsin,clothing,t-shirt,White,17.99,1,4/29/2025,5/2/2025
+194.0,467.0,33,San Bernardino,California,clothing,t-shirt,White,17.99,1,11/28/2025,12/4/2025
+630.0,837.0,56,Pueblo,Colorado,clothing,t-shirt,White,17.99,1,3/8/2025,3/14/2025
+90.0,767.0,32,Portland,Oregon,accessories,backpack,Navy,39.99,1,4/11/2025,4/12/2025
+928.0,545.0,41,Seattle,Washington,accessories,backpack,Navy,39.99,2,4/12/2025,4/19/2025
+728.0,401.0,26,Fullerton,California,outerwear,hoodie,Beige,45.99,1,6/28/2025,7/3/2025
+432.0,843.0,48,Vancouver,Washington,accessories,backpack,White,39.99,1,10/25/2025,10/28/2025
+972.0,758.0,19,Fresno,California,outerwear,hoodie,Black,45.99,2,5/11/2025,5/16/2025
+757.0,804.0,19,Denver,Colorado,accessories,hat,Black,15.99,2,2/28/2025,3/7/2025
+662.0,301.0,27,Oakland,California,clothing,shirt,White,25.99,2,9/30/2025,10/1/2025
+,630.0,31,Saint Cloud,Minnesota,clothing,shorts,Beige,23.99,1,6/10/2025,6/13/2025
+,448.0,27,Milwaukee,Wisconsin,clothing,sweater,Gray,33.99,3,7/30/2025,8/2/2025
+244.0,852.0,35,Pasadena,California,clothing,sweater,Gray,33.99,7,3/25/2025,3/30/2025
+544.0,53.0,27,Palmdale,California,clothing,t-shirt,White,17.99,1,3/10/2025,3/13/2025
+985.0,236.0,60,Spokane,Washington,accessories,backpack,Navy,39.99,1,9/6/2025,9/8/2025
+939.0,190.0,30,Palmdale,California,accessories,hat,Beige,15.99,4,5/28/2025,6/2/2025
+166.0,776.0,34,Modesto,California,accessories,backpack,White,39.99,2,1/14/2025,1/16/2025
+296.0,642.0,39,Long Beach,California,accessories,backpack,Navy,39.99,1,1/31/2025,2/4/2025
+29.0,707.0,32,Irvine,California,clothing,t-shirt,Navy,17.99,1,10/17/2025,10/21/2025
+94.0,498.0,31,Saginaw,Michigan,clothing,shirt,Navy,25.99,1,6/27/2025,6/28/2025
+441.0,775.0,35,Young America,Minnesota,clothing,t-shirt,Black,17.99,1,11/30/2025,12/7/2025
+206.0,,41,Hayward,California,clothing,sweater,Blue,33.99,1,9/20/2025,9/21/2025
+140.0,502.0,23,Inglewood,California,accessories,hat,Black,15.99,4,6/27/2025,7/4/2025
+936.0,394.0,35,San Francisco,California,outerwear,jacket,Black,59.99,1,5/3/2025,5/9/2025
+851.0,410.0,19,Fullerton,California,outerwear,hoodie,Black,45.99,3,3/21/2025,3/28/2025
+315.0,271.0,48,Kalamazoo,Michigan,outerwear,hoodie,Gray,45.99,2,3/29/2025,4/4/2025
+414.0,542.0,57,Warren,Michigan,clothing,socks,Black,11.99,1,7/17/2025,7/20/2025
+83.0,140.0,50,Irvine,California,accessories,backpack,Black,39.99,1,6/30/2025,7/3/2025
+805.0,878.0,29,Greeley,Colorado,clothing,t-shirt,Black,17.99,1,10/15/2025,10/22/2025
+756.0,865.0,52,North Hollywood,California,clothing,sweater,Gray,33.99,6,5/21/2025,5/26/2025
+411.0,108.0,41,Berkeley,California,clothing,socks,White,11.99,1,4/29/2025,5/2/2025
+890.0,790.0,56,Minneapolis,Minnesota,accessories,backpack,Black,39.99,4,4/20/2025,4/25/2025
+395.0,31.0,39,Moreno Valley,California,outerwear,jacket,Blue,59.99,1,6/30/2025,7/6/2025
+399.0,460.0,60,Anaheim,California,clothing,shirt,White,25.99,1,1/25/2025,1/28/2025
+639.0,507.0,60,Minneapolis,Minnesota,clothing,sweater,Navy,33.99,4,10/5/2025,10/9/2025
+499.0,431.0,48,Littleton,Colorado,clothing,t-shirt,White,17.99,2,3/20/2025,3/21/2025
+347.0,780.0,22,Mountain View,California,accessories,hat,Navy,15.99,1,10/11/2025,10/15/2025
+542.0,873.0,62,Boise,Idaho,clothing,shirt,White,25.99,7,4/6/2025,4/10/2025
+156.0,573.0,46,Troy,Michigan,outerwear,jacket,White,59.99,1,1/27/2025,2/1/2025
+72.0,447.0,50,Denver,Colorado,clothing,sweater,Blue,33.99,2,2/23/2025,2/26/2025
+465.0,259.0,33,Long Beach,California,clothing,t-shirt,Black,17.99,1,7/19/2025,7/24/2025
+501.0,253.0,39,Vancouver,Washington,accessories,backpack,White,39.99,3,5/13/2025,5/18/2025
+925.0,60.0,37,Vancouver,Washington,clothing,socks,Black,11.99,3,8/17/2025,8/24/2025
+660.0,934.0,62,Bakersfield,California,outerwear,hoodie,Gray,45.99,5,9/16/2025,9/19/2025
+473.0,72.0,64,Racine,Wisconsin,clothing,shorts,Black,23.99,1,6/11/2025,6/15/2025
+530.0,66.0,18,Seattle,Washington,accessories,hat,Black,15.99,2,2/4/2025,2/8/2025
+216.0,416.0,54,Aurora,Colorado,clothing,socks,Gray,11.99,1,6/5/2025,6/7/2025
+428.0,560.0,35,Sacramento,California,clothing,shirt,White,25.99,3,12/30/2025,1/6/2026
+579.0,,29,Santa Rosa,California,clothing,t-shirt,Navy,17.99,1,8/26/2025,8/27/2025
+738.0,180.0,43,Fresno,California,clothing,shirt,Black,25.99,2,10/29/2025,11/1/2025
+427.0,215.0,33,Detroit,Michigan,clothing,shorts,Navy,23.99,1,4/28/2025,5/3/2025
+72.0,879.0,42,Stockton,California,clothing,socks,Gray,11.99,1,9/28/2025,9/30/2025
+557.0,823.0,27,Los Angeles,California,clothing,sweater,Black,33.99,1,3/13/2025,3/16/2025
+94.0,418.0,32,San Bernardino,California,outerwear,hoodie,Black,45.99,1,10/29/2025,11/5/2025
+266.0,863.0,18,Sacramento,California,outerwear,jacket,Black,59.99,1,4/9/2025,4/12/2025
+556.0,959.0,39,Portland,Oregon,outerwear,hoodie,Gray,45.99,2,6/27/2025,7/3/2025
+977.0,289.0,27,Beaverton,Oregon,outerwear,hoodie,Black,45.99,2,11/3/2025,11/10/2025
+725.0,941.0,39,Minneapolis,Minnesota,clothing,socks,Black,11.99,1,8/25/2025,9/1/2025
+374.0,462.0,31,Santa Barbara,California,clothing,socks,White,11.99,1,9/8/2025,9/11/2025
+771.0,517.0,26,Vancouver,Washington,outerwear,jacket,Black,59.99,1,7/2/2025,7/9/2025
+677.0,486.0,47,Oceanside,California,clothing,pants,Beige,37.99,2,7/23/2025,7/28/2025
+110.0,545.0,41,Seattle,Washington,clothing,socks,White,11.99,2,5/13/2025,5/16/2025
+270.0,397.0,29,Huntington Beach,California,clothing,sweater,Gray,33.99,2,9/25/2025,9/29/2025
+186.0,86.0,29,Garden Grove,California,clothing,t-shirt,Black,17.99,2,6/2/2025,6/9/2025
+786.0,551.0,27,Inglewood,California,clothing,socks,Gray,11.99,4,9/11/2025,9/12/2025
+810.0,234.0,64,Greeley,Colorado,clothing,t-shirt,Black,17.99,1,1/16/2025,1/18/2025
+410.0,777.0,65,Detroit,Michigan,clothing,t-shirt,Navy,17.99,1,11/21/2025,11/25/2025
+553.0,380.0,52,San Diego,California,accessories,hat,Beige,15.99,1,12/16/2025,12/21/2025
+975.0,799.0,24,Saint Paul,Minnesota,clothing,t-shirt,Black,17.99,1,5/14/2025,5/16/2025
+251.0,34.0,43,Newport Beach,California,clothing,t-shirt,Black,17.99,6,4/5/2025,4/9/2025
+628.0,693.0,24,Boise,Idaho,outerwear,hoodie,White,45.99,2,5/8/2025,5/14/2025
+484.0,459.0,59,Fullerton,California,clothing,t-shirt,Black,17.99,1,1/11/2025,1/15/2025
+573.0,552.0,56,Oakland,California,outerwear,jacket,Black,59.99,1,2/1/2025,2/8/2025
+604.0,,64,Sacramento,California,clothing,socks,White,11.99,6,,
+603.0,575.0,39,Denver,Colorado,clothing,t-shirt,White,17.99,1,5/30/2025,6/6/2025
+971.0,631.0,54,Modesto,California,clothing,shirt,Black,25.99,2,5/21/2025,5/25/2025
+819.0,524.0,32,Seattle,Washington,clothing,socks,Black,11.99,1,1/15/2025,1/19/2025
+645.0,,65,San Francisco,California,clothing,socks,White,11.99,1,8/9/2025,8/10/2025
+221.0,132.0,55,Oxnard,California,clothing,shorts,Beige,23.99,1,6/15/2025,6/21/2025
+944.0,135.0,23,Torrance,California,clothing,shirt,Black,25.99,1,8/27/2025,8/29/2025
+523.0,667.0,32,San Bernardino,California,clothing,t-shirt,White,17.99,1,5/25/2025,5/28/2025
+49.0,100.0,38,Chico,California,accessories,hat,Gray,15.99,1,11/11/2025,11/12/2025
+869.0,585.0,47,Oakland,California,outerwear,hoodie,Navy,45.99,2,6/25/2025,7/2/2025
+733.0,273.0,29,Minneapolis,Minnesota,outerwear,hoodie,Blue,45.99,3,9/14/2025,9/16/2025
+857.0,943.0,38,Flint,Michigan,clothing,shorts,Navy,23.99,1,12/28/2025,1/2/2026
+387.0,355.0,53,San Jose,California,outerwear,hoodie,Black,45.99,3,7/27/2025,8/3/2025
+448.0,301.0,27,Oakland,California,clothing,shirt,White,25.99,1,1/2/2025,1/4/2025
+439.0,578.0,56,Colorado Springs,Colorado,clothing,socks,Black,11.99,2,8/10/2025,8/11/2025
+175.0,282.0,23,Portland,Oregon,clothing,shirt,Gray,25.99,1,6/9/2025,6/11/2025
+934.0,290.0,44,Eugene,Oregon,accessories,backpack,Navy,39.99,1,8/30/2025,9/5/2025
+617.0,129.0,58,Sacramento,California,outerwear,hoodie,Black,45.99,1,10/30/2025,10/31/2025
+943.0,432.0,35,Idaho Falls,Idaho,clothing,sweater,Gray,33.99,3,7/26/2025,7/27/2025
+99.0,186.0,58,San Bernardino,California,clothing,socks,Gray,11.99,2,4/14/2025,4/19/2025
+404.0,706.0,62,Lansing,Michigan,accessories,hat,Beige,15.99,3,5/8/2025,5/13/2025
+243.0,716.0,36,Santa Cruz,California,clothing,t-shirt,White,17.99,3,7/8/2025,7/15/2025
+12.0,90.0,34,Detroit,Michigan,clothing,sweater,Blue,33.99,3,7/11/2025,7/14/2025
+,241.0,48,Los Angeles,California,outerwear,jacket,Gray,59.99,2,9/27/2025,10/3/2025
+,793.0,50,Loretto,Minnesota,clothing,pants,Black,37.99,1,3/11/2025,3/16/2025
+812.0,713.0,63,Sacramento,California,clothing,sweater,Navy,33.99,6,6/23/2025,6/27/2025
+817.0,443.0,44,Los Angeles,California,clothing,sweater,Black,33.99,2,7/29/2025,8/2/2025
+24.0,503.0,35,Madison,Wisconsin,clothing,socks,White,11.99,3,6/11/2025,6/14/2025
+921.0,286.0,36,Pueblo,Colorado,clothing,t-shirt,Black,17.99,4,9/13/2025,9/16/2025
+484.0,40.0,42,Stockton,California,clothing,shirt,Navy,25.99,1,10/28/2025,10/31/2025
+124.0,254.0,60,Maple Plain,Minnesota,clothing,socks,White,11.99,1,4/20/2025,4/24/2025
+837.0,824.0,37,Oakland,California,outerwear,jacket,Black,59.99,1,6/22/2025,6/29/2025
+19.0,824.0,37,Oakland,California,clothing,pants,Beige,37.99,2,4/13/2025,4/17/2025
+836.0,687.0,46,Milwaukee,Wisconsin,clothing,t-shirt,Black,17.99,3,11/27/2025,11/29/2025
+340.0,976.0,42,Stockton,California,outerwear,jacket,Navy,59.99,1,2/24/2025,3/2/2025
+760.0,870.0,47,Seattle,Washington,clothing,shorts,Gray,23.99,1,2/14/2025,2/17/2025
+229.0,385.0,52,Anaheim,California,outerwear,hoodie,Black,45.99,3,5/1/2025,5/5/2025
+900.0,235.0,37,Stockton,California,clothing,t-shirt,Black,17.99,1,6/25/2025,6/26/2025
+417.0,142.0,50,Minneapolis,Minnesota,clothing,pants,Black,37.99,1,10/17/2025,10/20/2025
+14.0,576.0,38,Portland,Oregon,clothing,socks,Black,11.99,1,11/9/2025,11/16/2025
+136.0,820.0,20,Tacoma,Washington,clothing,t-shirt,White,17.99,1,11/3/2025,11/9/2025
+857.0,890.0,56,Pueblo,Colorado,clothing,t-shirt,Black,17.99,2,9/3/2025,9/4/2025
+881.0,191.0,18,Portland,Oregon,clothing,sweater,Black,33.99,1,2/1/2025,2/8/2025
+79.0,896.0,39,Santa Monica,California,clothing,pants,Navy,37.99,2,4/30/2025,5/4/2025
+802.0,142.0,50,Minneapolis,Minnesota,outerwear,hoodie,Gray,45.99,3,5/19/2025,5/25/2025
+659.0,113.0,20,Denver,Colorado,outerwear,hoodie,Navy,45.99,2,10/9/2025,10/16/2025
+810.0,809.0,23,San Rafael,California,outerwear,jacket,Navy,59.99,2,11/27/2025,12/4/2025
+510.0,293.0,37,San Diego,California,clothing,sweater,Black,33.99,2,12/2/2025,12/3/2025
+270.0,778.0,27,Boise,Idaho,clothing,sweater,Black,33.99,1,9/11/2025,9/18/2025
+524.0,235.0,37,Stockton,California,clothing,sweater,Navy,33.99,2,8/18/2025,8/20/2025
+173.0,290.0,44,Eugene,Oregon,clothing,socks,White,11.99,2,2/10/2025,2/17/2025
+430.0,896.0,39,Santa Monica,California,clothing,sweater,Navy,33.99,4,2/9/2025,2/12/2025
+375.0,833.0,20,San Bernardino,California,outerwear,hoodie,Black,45.99,4,4/29/2025,5/1/2025
+94.0,469.0,29,Berkeley,California,outerwear,hoodie,Black,45.99,1,10/12/2025,10/16/2025
+190.0,43.0,40,Irvine,California,clothing,t-shirt,Black,17.99,2,12/30/2025,1/4/2026
+390.0,404.0,38,Burbank,California,clothing,shorts,Black,23.99,1,9/21/2025,9/22/2025
+972.0,304.0,22,Portland,Oregon,accessories,backpack,White,39.99,1,8/25/2025,8/30/2025
+962.0,966.0,61,San Mateo,California,accessories,hat,Navy,15.99,1,1/11/2025,1/17/2025
+972.0,609.0,64,Seattle,Washington,outerwear,jacket,White,59.99,1,10/6/2025,10/9/2025
+730.0,160.0,52,Detroit,Michigan,outerwear,hoodie,Blue,45.99,2,9/15/2025,9/22/2025
+321.0,603.0,50,Oakland,California,clothing,shirt,Beige,25.99,1,2/13/2025,2/18/2025
+285.0,78.0,50,Sacramento,California,outerwear,hoodie,Black,45.99,1,11/2/2025,11/9/2025
+57.0,654.0,21,Los Angeles,California,accessories,backpack,White,39.99,1,8/27/2025,9/2/2025
+878.0,468.0,23,San Diego,California,outerwear,jacket,Black,59.99,1,1/7/2025,1/12/2025
+752.0,409.0,39,Seattle,Washington,clothing,t-shirt,Black,17.99,2,8/9/2025,8/15/2025
+657.0,665.0,25,Orange,California,clothing,socks,White,11.99,1,9/22/2025,9/26/2025
+839.0,802.0,18,Grand Rapids,Michigan,outerwear,hoodie,White,45.99,3,4/21/2025,4/26/2025
+422.0,327.0,60,Seattle,Washington,clothing,sweater,Navy,33.99,4,11/7/2025,11/14/2025
+116.0,468.0,23,San Diego,California,accessories,backpack,Black,39.99,1,7/2/2025,7/6/2025
+471.0,817.0,34,Burbank,California,clothing,shorts,Navy,23.99,2,5/3/2025,5/4/2025
+630.0,14.0,48,Littleton,Colorado,accessories,hat,Navy,15.99,3,2/25/2025,2/27/2025
+814.0,604.0,35,San Diego,California,outerwear,hoodie,Black,45.99,2,10/6/2025,10/9/2025
+309.0,176.0,31,San Jose,California,clothing,t-shirt,Navy,17.99,1,10/6/2025,10/11/2025
+89.0,136.0,65,Sacramento,California,accessories,hat,Navy,15.99,1,10/13/2025,10/15/2025
+711.0,946.0,38,Denver,Colorado,clothing,sweater,Blue,33.99,1,4/26/2025,4/29/2025
+53.0,968.0,26,Long Beach,California,clothing,sweater,Navy,33.99,3,10/24/2025,10/27/2025
+478.0,490.0,33,Whittier,California,outerwear,hoodie,Black,45.99,2,11/23/2025,11/28/2025
+303.0,768.0,21,Boise,Idaho,outerwear,jacket,Black,59.99,2,6/29/2025,6/30/2025
+383.0,546.0,35,Seattle,Washington,accessories,hat,Black,15.99,6,4/9/2025,4/13/2025
+548.0,55.0,56,Los Angeles,California,clothing,shirt,Blue,25.99,1,6/24/2025,7/1/2025
+947.0,823.0,27,Los Angeles,California,clothing,shirt,White,25.99,1,6/14/2025,6/16/2025
+210.0,915.0,19,Bakersfield,California,outerwear,jacket,Blue,59.99,2,1/26/2025,2/1/2025
+273.0,141.0,54,Detroit,Michigan,clothing,sweater,Navy,33.99,2,8/11/2025,8/18/2025
+892.0,954.0,48,Tacoma,Washington,outerwear,hoodie,Black,45.99,2,12/11/2025,12/16/2025
+967.0,49.0,22,San Diego,California,clothing,socks,White,11.99,1,5/3/2025,5/8/2025
